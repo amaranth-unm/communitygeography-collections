@@ -10,7 +10,7 @@ require 'fileutils'
 require 'time'
 ROOT = File.expand_path('..', __dir__)
 ORIGIN = 'https://communitygeography.unm.edu'
-manifest = JSON.parse(File.read(File.join(ROOT, '.migration/crawl.json')))
+manifest = JSON.parse(File.read(File.join(ROOT, 'migration/_work/crawl.json')))
 available = (manifest['pages'] + manifest['assets']).map { |item| URI(item['url']).path }
 
 def resolve(value, source)
@@ -104,7 +104,7 @@ def markdown(node, source, available)
   output.gsub(/\n{3,}/, "\n\n").strip + "\n"
 end
 
-home_doc = Nokogiri::HTML(File.read(File.join(ROOT, '.migration/source/index.html')))
+home_doc = Nokogiri::HTML(File.read(File.join(ROOT, 'migration/_work/source/index.html')))
 nav = home_doc.css('#horz-nav > ul > li').map do |li|
   a = li.at_css('a')
   item = {'title' => a.text.gsub(/[[:space:]\u00a0]+/, ' ').strip, 'url' => URI(resolve(a['href'], ORIGIN + '/')).path}

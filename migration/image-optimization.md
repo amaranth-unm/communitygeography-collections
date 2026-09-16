@@ -1,6 +1,6 @@
 # Optimize Images
 
-The [Optimize Images workflow](https://github.com/amaranth-unm/communitygeography/actions/workflows/optimize-images.yml) brings Xanthan's image-maintenance workflow into this migrated site. It works with the existing HTML images, Markdown images, layout images, and images referenced from YAML. Using a Xanthan image include is not a prerequisite.
+The [Optimize Images workflow](../.github/workflows/optimize-images.yml) brings Xanthan's image-maintenance workflow into this migrated site. It works with the existing HTML images, Markdown images, layout images, and images referenced from YAML. Using a Xanthan image include is not a prerequisite. Use the working `communitygeography` repository for application; keep the `communitygeography-orig` baseline's image bytes unchanged.
 
 ## Use it on GitHub
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 # Preserve the public source site for a repeatable migration. Cached downloads
-# live in .migration/ and are excluded from both Git and the published site.
+# live in migration/_work/ and are excluded from both Git and the published site.
 require 'nokogiri'
 require 'json'
 require 'uri'
@@ -10,7 +10,7 @@ require 'set'
 
 ROOT = File.expand_path('..', __dir__)
 ORIGIN = 'https://communitygeography.unm.edu'
-CACHE = File.join(ROOT, '.migration/source')
+CACHE = File.join(ROOT, 'migration/_work/source')
 FileUtils.mkdir_p(CACHE)
 
 def local_path(url)
@@ -88,6 +88,6 @@ until queue.empty?
     end
     queue.uniq!
   end
-  File.write(File.join(ROOT, '.migration/crawl.json'), JSON.pretty_generate({pages: pages, assets: assets, failures: failures}))
+  File.write(File.join(ROOT, 'migration/_work/crawl.json'), JSON.pretty_generate({pages: pages, assets: assets, failures: failures}))
 end
 puts "Captured #{pages.size} pages and #{assets.size} assets; #{failures.size} unavailable URLs."

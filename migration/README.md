@@ -6,6 +6,25 @@ The migration contains 134 pages and 178 local assets. All 113 HTML routes in th
 
 The complete inventory is in `manifest.json`. It records each imported page, its original URL, its editable source file, the assets copied locally, and source URLs that could not be retrieved.
 
+## What belongs in this folder
+
+| Location | Purpose | Saved in Git? |
+| --- | --- | --- |
+| [start-here.md](start-here.md) | Baseline/working-copy roles and handoff for a fresh conversation. | Yes |
+| [cleanup-roadmap.md](cleanup-roadmap.md) | The three-tier process, including strict Tier 1 boundaries and checks. | Yes |
+| [site-organization-plan.md](site-organization-plan.md) | Site-specific, optional Tier 2 and Tier 3 improvements. | Yes |
+| [image-optimization.md](image-optimization.md) | Using the restored image workflow. | Yes |
+| [manifest.json](manifest.json) | Original page/asset inventory and preserved public paths. | Yes |
+| [reference/unm-branding/](reference/unm-branding/README.md) | Branding provenance and the original upstream reference copy. | Yes |
+| `_work/source/` and `_work/crawl.json` | Downloaded source capture and its working inventory, used by the migration scripts. | No |
+| Other files inside `_work/` | Historical scratch scripts and template experiments; not active site components. | No |
+
+All of `migration/` is excluded from the published site. Ordinary editing does not require the local capture or scratch files. The capture remains available locally for comparison; it has not been deleted.
+
+On September 16, 2026, local `.migration/` work was consolidated into `migration/_work/`, and the top-level `unm-branding/` reference copy moved into `migration/reference/unm-branding/`. The crawl inventory's local paths and migration scripts were updated together. The original capture contents and public URL inventory were retained. Older clones can move their local `.migration/` folder to `migration/_work/` and replace the `.migration/` prefix in each page/asset `path` in `crawl.json`; do not rerun the converter to perform this housekeeping.
+
+Active UNM components live in `_includes/unm/`, `_layouts/`, and `assets/`, alongside the rest of Xanthan. The reference copy is retained for provenance, not loaded by the site. Original content folders, including `community-geography/`, remain unchanged.
+
 ## Preserved
 
 - Page wording and original dates, including archived news, events, project descriptions, fellowships, team biographies, and application materials.

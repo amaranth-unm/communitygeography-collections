@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       folder:
-        description: 'Folder to process; . includes all tracked images, including the old Cascade folders'
+        description: 'Folder to process; use assets/images or a section such as assets/images/events'
         required: true
         default: '.'
       max_edge:

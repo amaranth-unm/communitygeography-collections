@@ -1,0 +1,714 @@
+[
+  {
+    "from": "assets/img/center-logo-.png",
+    "to": "assets/images/shared/center-logo-.png"
+  },
+  {
+    "from": "bosque-by-maria-lane.jpeg",
+    "to": "assets/images/shared/bosque-by-maria-lane.jpeg"
+  },
+  {
+    "from": "learn-more-button.png",
+    "to": "assets/images/shared/learn-more-button.png"
+  },
+  {
+    "from": "about/instagram-icon.png",
+    "to": "assets/images/about/instagram-icon.png"
+  },
+  {
+    "from": "about/full-group-pajarito-acequia-sp2022",
+    "to": "assets/images/about/full-group-pajarito-acequia-sp2022"
+  },
+  {
+    "from": "about/prickly-pear-cropped.jpeg",
+    "to": "assets/images/about/prickly-pear-cropped.jpeg"
+  },
+  {
+    "from": "about/morgan_24.jpg",
+    "to": "assets/images/about/morgan_24.jpg"
+  },
+  {
+    "from": "about/gibbs-photo.jpg",
+    "to": "assets/images/about/gibbs-photo.jpg"
+  },
+  {
+    "from": "about/desiree-photo.jpeg",
+    "to": "assets/images/about/desiree-photo.jpeg"
+  },
+  {
+    "from": "about/ks_headshot.png",
+    "to": "assets/images/about/ks_headshot.png"
+  },
+  {
+    "from": "about/joegarcia.jpg",
+    "to": "assets/images/about/joegarcia.jpg"
+  },
+  {
+    "from": "about/gwyneth-doland.jpg",
+    "to": "assets/images/about/gwyneth-doland.jpg"
+  },
+  {
+    "from": "claudia",
+    "to": "assets/images/shared/claudia"
+  },
+  {
+    "from": "about/thomas-de-pree",
+    "to": "assets/images/about/thomas-de-pree"
+  },
+  {
+    "from": "about/kells-bio-pix.jpg",
+    "to": "assets/images/about/kells-bio-pix.jpg"
+  },
+  {
+    "from": "about/soni-taylorshead-july-2022.jpg",
+    "to": "assets/images/about/soni-taylorshead-july-2022.jpg"
+  },
+  {
+    "from": "about/headshot_zoom.jpg",
+    "to": "assets/images/about/headshot_zoom.jpg"
+  },
+  {
+    "from": "about/marygold.webp",
+    "to": "assets/images/about/marygold.webp"
+  },
+  {
+    "from": "about/liping-yang.jpg",
+    "to": "assets/images/about/liping-yang.jpg"
+  },
+  {
+    "from": "about/milfordmuskett.jpg",
+    "to": "assets/images/about/milfordmuskett.jpg"
+  },
+  {
+    "from": "community-geography/picture2.png",
+    "to": "assets/images/community-geography/picture2.png"
+  },
+  {
+    "from": "community-geography/collaboration-11.png",
+    "to": "assets/images/community-geography/collaboration-11.png"
+  },
+  {
+    "from": "community-geography/community-1.png",
+    "to": "assets/images/community-geography/community-1.png"
+  },
+  {
+    "from": "community-geography/signal-2023-05-02-172650_004.jpeg",
+    "to": "assets/images/community-geography/signal-2023-05-02-172650_004.jpeg"
+  },
+  {
+    "from": "community-geography/human-geography-1.png",
+    "to": "assets/images/community-geography/human-geography-1.png"
+  },
+  {
+    "from": "community-geography/physical-geography-1.png",
+    "to": "assets/images/community-geography/physical-geography-1.png"
+  },
+  {
+    "from": "community-geography/place-1.png",
+    "to": "assets/images/community-geography/place-1.png"
+  },
+  {
+    "from": "community-geography/signal-2023-05-02-172650_008.jpeg",
+    "to": "assets/images/community-geography/signal-2023-05-02-172650_008.jpeg"
+  },
+  {
+    "from": "news/april10_drdevivo_talk_flyer.pdf",
+    "to": "assets/documents/news/april10_drdevivo_talk_flyer.pdf"
+  },
+  {
+    "from": "funding/24-25-fellowship-app-guidelines.pdf",
+    "to": "assets/documents/funding/24-25-fellowship-app-guidelines.pdf"
+  },
+  {
+    "from": "funding/ks_headshot_02.jpg",
+    "to": "assets/images/funding/ks_headshot_02.jpg"
+  },
+  {
+    "from": "funding/criticalcartographyshannonandmicheal",
+    "to": "assets/images/funding/criticalcartographyshannonandmicheal"
+  },
+  {
+    "from": "funding/24-25-classroom-fund-app-guidelines.pdf",
+    "to": "assets/documents/funding/24-25-classroom-fund-app-guidelines.pdf"
+  },
+  {
+    "from": "funding/crticialcartographystudents2021",
+    "to": "assets/images/funding/crticialcartographystudents2021"
+  },
+  {
+    "from": "events/gis-day.png",
+    "to": "assets/images/events/gis-day.png"
+  },
+  {
+    "from": "news/ccg_social_gus_5.7.png",
+    "to": "assets/images/news/ccg_social_gus_5.7.png"
+  },
+  {
+    "from": "events/05-02-25-ges-student-showcase-ges-colloquium.png",
+    "to": "assets/images/events/05-02-25-ges-student-showcase-ges-colloquium.png"
+  },
+  {
+    "from": "events/outlook-jv033xwt.png",
+    "to": "assets/images/events/outlook-jv033xwt.png"
+  },
+  {
+    "from": "events/ccg_cnc2025_.png",
+    "to": "assets/images/events/ccg_cnc2025_.png"
+  },
+  {
+    "from": "events/new-flyer.jpg",
+    "to": "assets/images/events/new-flyer.jpg"
+  },
+  {
+    "from": "events/dr-devivo.jpg",
+    "to": "assets/images/events/dr-devivo.jpg"
+  },
+  {
+    "from": "donate/picture1.png",
+    "to": "assets/images/donate/picture1.png"
+  },
+  {
+    "from": "projects/byr_per_nbr_slack.png",
+    "to": "assets/images/projects/byr_per_nbr_slack.png"
+  },
+  {
+    "from": "projects/project/migration-survey_2.png",
+    "to": "assets/images/projects/project/migration-survey_2.png"
+  },
+  {
+    "from": "projects/project/abq-backyard-refuge-logo.jpg",
+    "to": "assets/images/projects/project/abq-backyard-refuge-logo.jpg"
+  },
+  {
+    "from": "projects/project/berncoopenspace.png",
+    "to": "assets/images/projects/project/berncoopenspace.png"
+  },
+  {
+    "from": "projects/project/geog2115_sp22_sustexpo.jpg",
+    "to": "assets/images/projects/project/geog2115_sp22_sustexpo.jpg"
+  },
+  {
+    "from": "projects/project/oldspanishtrail.png",
+    "to": "assets/images/projects/project/oldspanishtrail.png"
+  },
+  {
+    "from": "projects/project/photos/resiliencebox_packing.png",
+    "to": "assets/images/projects/project/photos/resiliencebox_packing.png"
+  },
+  {
+    "from": "projects/project/tijeras_pueblo_archeological_site,_tijeras_nm.jpg",
+    "to": "assets/images/projects/project/tijeras_pueblo_archeological_site,_tijeras_nm.jpg"
+  },
+  {
+    "from": "projects/project/mora_hs_students.png",
+    "to": "assets/images/projects/project/mora_hs_students.png"
+  },
+  {
+    "from": "projects/project/satellite-image-abq-cropped.jpg",
+    "to": "assets/images/projects/project/satellite-image-abq-cropped.jpg"
+  },
+  {
+    "from": "food-and-resources-map.png",
+    "to": "assets/images/shared/food-and-resources-map.png"
+  },
+  {
+    "from": "events/city-nature-challenge-log.png",
+    "to": "assets/images/events/city-nature-challenge-log.png"
+  },
+  {
+    "from": "projects/project/backyard-refuge-program.jpg",
+    "to": "assets/images/projects/project/backyard-refuge-program.jpg"
+  },
+  {
+    "from": "projects/tcwc-logo.png",
+    "to": "assets/images/projects/tcwc-logo.png"
+  },
+  {
+    "from": "projects/project/kelsey-project-2.jpeg",
+    "to": "assets/images/projects/project/kelsey-project-2.jpeg"
+  },
+  {
+    "from": "projects/project/new-forest.jpg",
+    "to": "assets/images/projects/project/new-forest.jpg"
+  },
+  {
+    "from": "projects/project/boxed-apples.jpg",
+    "to": "assets/images/projects/project/boxed-apples.jpg"
+  },
+  {
+    "from": "projects/project/mexican-carreta---chihuahua-loc.jpg",
+    "to": "assets/images/projects/project/mexican-carreta---chihuahua-loc.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day01.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day01.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day02.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day02.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day03.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day03.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day04.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day04.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day13.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day13.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day05.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day05.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day06.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day06.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day07.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day07.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day08.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day08.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day09.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day09.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day10.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day10.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day11.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day11.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day12.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day12.jpg"
+  },
+  {
+    "from": "projects/past-projects/2025_gis_day14.jpg",
+    "to": "assets/images/projects/past-projects/2025_gis_day14.jpg"
+  },
+  {
+    "from": "news/hopesmith.jpg",
+    "to": "assets/images/news/hopesmith.jpg"
+  },
+  {
+    "from": "about/juna.jpg",
+    "to": "assets/images/about/juna.jpg"
+  },
+  {
+    "from": "about/miriam-profile-picture-.jpg",
+    "to": "assets/images/about/miriam-profile-picture-.jpg"
+  },
+  {
+    "from": "rm.jpg",
+    "to": "assets/images/shared/rm.jpg"
+  },
+  {
+    "from": "nopal-by-maria-lane.jpeg",
+    "to": "assets/images/shared/nopal-by-maria-lane.jpeg"
+  },
+  {
+    "from": "gila_christina_castro",
+    "to": "assets/images/shared/gila_christina_castro"
+  },
+  {
+    "from": "subhankar-banerjee-flyer.png",
+    "to": "assets/images/shared/subhankar-banerjee-flyer.png"
+  },
+  {
+    "from": "wilson-flyer.png",
+    "to": "assets/images/shared/wilson-flyer.png"
+  },
+  {
+    "from": "ges-april-5th-colloquium.png",
+    "to": "assets/images/shared/ges-april-5th-colloquium.png"
+  },
+  {
+    "from": "ges_bioblitzbikeride.jpg",
+    "to": "assets/images/shared/ges_bioblitzbikeride.jpg"
+  },
+  {
+    "from": "watersymposium24",
+    "to": "assets/images/shared/watersymposium24"
+  },
+  {
+    "from": "expo2024.png",
+    "to": "assets/images/shared/expo2024.png"
+  },
+  {
+    "from": "02-14-25-molly-miranker-ges-colloquium.jpg",
+    "to": "assets/images/shared/02-14-25-molly-miranker-ges-colloquium.jpg"
+  },
+  {
+    "from": "schlager-talk-4.7.25-pols-arid.png",
+    "to": "assets/images/shared/schlager-talk-4.7.25-pols-arid.png"
+  },
+  {
+    "from": "community-geography/collaboration-2.png",
+    "to": "assets/images/community-geography/collaboration-2.png"
+  },
+  {
+    "from": "community-geography/collaboration-3.png",
+    "to": "assets/images/community-geography/collaboration-3.png"
+  },
+  {
+    "from": "community-geography/community-11.png",
+    "to": "assets/images/community-geography/community-11.png"
+  },
+  {
+    "from": "community-geography/community-2.png",
+    "to": "assets/images/community-geography/community-2.png"
+  },
+  {
+    "from": "community-geography/community-3.png",
+    "to": "assets/images/community-geography/community-3.png"
+  },
+  {
+    "from": "community-geography/hds-1.png",
+    "to": "assets/images/community-geography/hds-1.png"
+  },
+  {
+    "from": "community-geography/hds-2.png",
+    "to": "assets/images/community-geography/hds-2.png"
+  },
+  {
+    "from": "community-geography/hds-3.png",
+    "to": "assets/images/community-geography/hds-3.png"
+  },
+  {
+    "from": "community-geography/hds-4.png",
+    "to": "assets/images/community-geography/hds-4.png"
+  },
+  {
+    "from": "community-geography/human-geography-2.png",
+    "to": "assets/images/community-geography/human-geography-2.png"
+  },
+  {
+    "from": "community-geography/human-geography-3.png",
+    "to": "assets/images/community-geography/human-geography-3.png"
+  },
+  {
+    "from": "community-geography/physical-geography-2.png",
+    "to": "assets/images/community-geography/physical-geography-2.png"
+  },
+  {
+    "from": "community-geography/physical-geography-3.png",
+    "to": "assets/images/community-geography/physical-geography-3.png"
+  },
+  {
+    "from": "community-geography/place-2.png",
+    "to": "assets/images/community-geography/place-2.png"
+  },
+  {
+    "from": "community-geography/place-3.png",
+    "to": "assets/images/community-geography/place-3.png"
+  },
+  {
+    "from": "community-geography/signal-2023-05-02-172650_003.jpeg",
+    "to": "assets/images/community-geography/signal-2023-05-02-172650_003.jpeg"
+  },
+  {
+    "from": "community-geography/signal-2023-05-02-172650_002.jpeg",
+    "to": "assets/images/community-geography/signal-2023-05-02-172650_002.jpeg"
+  },
+  {
+    "from": "community-geography/signal-2023-05-02-172650_007.jpeg",
+    "to": "assets/images/community-geography/signal-2023-05-02-172650_007.jpeg"
+  },
+  {
+    "from": "community-geography/signal-2023-05-02-172650_006.jpeg",
+    "to": "assets/images/community-geography/signal-2023-05-02-172650_006.jpeg"
+  },
+  {
+    "from": "community-geography/signal-2023-05-02-172650_005.jpeg",
+    "to": "assets/images/community-geography/signal-2023-05-02-172650_005.jpeg"
+  },
+  {
+    "from": "news/critcartography-poster4866.jpg",
+    "to": "assets/images/news/critcartography-poster4866.jpg"
+  },
+  {
+    "from": "events/march-29-2021-event.jpg",
+    "to": "assets/images/events/march-29-2021-event.jpg"
+  },
+  {
+    "from": "news/inatualist-.png",
+    "to": "assets/images/news/inatualist-.png"
+  },
+  {
+    "from": "about/pic-of-field-work-29097.jpg",
+    "to": "assets/images/about/pic-of-field-work-29097.jpg"
+  },
+  {
+    "from": "about/pic-of-field-work9098.png",
+    "to": "assets/images/about/pic-of-field-work9098.png"
+  },
+  {
+    "from": "news/criticalcartographylospoblanos",
+    "to": "assets/images/news/criticalcartographylospoblanos"
+  },
+  {
+    "from": "news/cnc2021-gesvbio.pdf",
+    "to": "assets/documents/news/cnc2021-gesvbio.pdf"
+  },
+  {
+    "from": "news/cnc2021-gesvbio.jpg",
+    "to": "assets/images/news/cnc2021-gesvbio.jpg"
+  },
+  {
+    "from": "news/maria-sunset-.jpeg",
+    "to": "assets/images/news/maria-sunset-.jpeg"
+  },
+  {
+    "from": "news/casa-san-ysidro-by-ramona-m.",
+    "to": "assets/images/news/casa-san-ysidro-by-ramona-m."
+  },
+  {
+    "from": "news/jeffbuckleytalkposter",
+    "to": "assets/images/news/jeffbuckleytalkposter"
+  },
+  {
+    "from": "news/geoff-buckley16341.jpg",
+    "to": "assets/images/news/geoff-buckley16341.jpg"
+  },
+  {
+    "from": "news/pajarito-open-space-shannon.jpg",
+    "to": "assets/images/news/pajarito-open-space-shannon.jpg"
+  },
+  {
+    "from": "news/cnc-updated-image.png",
+    "to": "assets/images/news/cnc-updated-image.png"
+  },
+  {
+    "from": "daffodils_unm",
+    "to": "assets/images/shared/daffodils_unm"
+  },
+  {
+    "from": "christine.jpeg",
+    "to": "assets/images/shared/christine.jpeg"
+  },
+  {
+    "from": "deana.jpg",
+    "to": "assets/images/shared/deana.jpg"
+  },
+  {
+    "from": "rudo.jpg",
+    "to": "assets/images/shared/rudo.jpg"
+  },
+  {
+    "from": "annita.jpg",
+    "to": "assets/images/shared/annita.jpg"
+  },
+  {
+    "from": "reuben.jpg",
+    "to": "assets/images/shared/reuben.jpg"
+  },
+  {
+    "from": "news/img-7673.jpg",
+    "to": "assets/images/news/img-7673.jpg"
+  },
+  {
+    "from": "news/img-6601.jpg",
+    "to": "assets/images/news/img-6601.jpg"
+  },
+  {
+    "from": "news/img-7685.jpg",
+    "to": "assets/images/news/img-7685.jpg"
+  },
+  {
+    "from": "news/img-6598.jpg",
+    "to": "assets/images/news/img-6598.jpg"
+  },
+  {
+    "from": "events/robin-wall-kimmerer-2023-lecture_orig.jpeg",
+    "to": "assets/images/events/robin-wall-kimmerer-2023-lecture_orig.jpeg"
+  },
+  {
+    "from": "news/leopold-writing-program-logo-color.jpg",
+    "to": "assets/images/news/leopold-writing-program-logo-color.jpg"
+  },
+  {
+    "from": "funding/fellowship-app-guidelines-2023-2024.pdf",
+    "to": "assets/documents/funding/fellowship-app-guidelines-2023-2024.pdf"
+  },
+  {
+    "from": "funding/classroom-app-guidelines-2023-2024.pdf",
+    "to": "assets/documents/funding/classroom-app-guidelines-2023-2024.pdf"
+  },
+  {
+    "from": "news/abq-city-nature-challenge---updated-logo.png",
+    "to": "assets/images/news/abq-city-nature-challenge---updated-logo.png"
+  },
+  {
+    "from": "news/hiresgeog499flyer.png",
+    "to": "assets/images/news/hiresgeog499flyer.png"
+  },
+  {
+    "from": "news/geog-499-detailed-info.pdf",
+    "to": "assets/documents/news/geog-499-detailed-info.pdf"
+  },
+  {
+    "from": "news/oil-and-gas-leasing-protest.jpeg",
+    "to": "assets/images/news/oil-and-gas-leasing-protest.jpeg"
+  },
+  {
+    "from": "news/well-greater-chaco.jpg",
+    "to": "assets/images/news/well-greater-chaco.jpg"
+  },
+  {
+    "from": "news/thumbnail_20230702_dsc1266_small.jpg",
+    "to": "assets/images/news/thumbnail_20230702_dsc1266_small.jpg"
+  },
+  {
+    "from": "news/kendra-pinto-earthworks.jpg",
+    "to": "assets/images/news/kendra-pinto-earthworks.jpg"
+  },
+  {
+    "from": "publicallies.png",
+    "to": "assets/images/shared/publicallies.png"
+  },
+  {
+    "from": "news/ccg_social.png",
+    "to": "assets/images/news/ccg_social.png"
+  },
+  {
+    "from": "events/thumbnail_unm-ce-23-banner.jpg",
+    "to": "assets/images/events/thumbnail_unm-ce-23-banner.jpg"
+  },
+  {
+    "from": "events/lobo-garden-party-flyer.png",
+    "to": "assets/images/events/lobo-garden-party-flyer.png"
+  },
+  {
+    "from": "events/gisday2023",
+    "to": "assets/images/events/gisday2023"
+  },
+  {
+    "from": "events/murphy-lecture_2023_dupigny-giroux-11.png",
+    "to": "assets/images/events/murphy-lecture_2023_dupigny-giroux-11.png"
+  },
+  {
+    "from": "events/murphy-lecture_2023_dupigny-giroux-1.png",
+    "to": "assets/images/events/murphy-lecture_2023_dupigny-giroux-1.png"
+  },
+  {
+    "from": "events/cnc-ges-group.png",
+    "to": "assets/images/events/cnc-ges-group.png"
+  },
+  {
+    "from": "events/ctlconference2024.png",
+    "to": "assets/images/events/ctlconference2024.png"
+  },
+  {
+    "from": "events/spring-colloquium-series_updated.png",
+    "to": "assets/images/events/spring-colloquium-series_updated.png"
+  },
+  {
+    "from": "events/rosenthal",
+    "to": "assets/images/events/rosenthal"
+  },
+  {
+    "from": "events/ges-city-nature-chall-426.png",
+    "to": "assets/images/events/ges-city-nature-chall-426.png"
+  },
+  {
+    "from": "ges-may-9-colloquium.png",
+    "to": "assets/images/shared/ges-may-9-colloquium.png"
+  },
+  {
+    "from": "ccg_undergradsocial9.18.png",
+    "to": "assets/images/shared/ccg_undergradsocial9.18.png"
+  },
+  {
+    "from": "events/ccg_monthlysocial9.27.png",
+    "to": "assets/images/events/ccg_monthlysocial9.27.png"
+  },
+  {
+    "from": "events/fall2024gescolloquium_lippitt.png",
+    "to": "assets/images/events/fall2024gescolloquium_lippitt.png"
+  },
+  {
+    "from": "events/valentines-pizza-social1.png",
+    "to": "assets/images/events/valentines-pizza-social1.png"
+  },
+  {
+    "from": "events/1.22_ccg_social.png",
+    "to": "assets/images/events/1.22_ccg_social.png"
+  },
+  {
+    "from": "events/1-24-david-correia-spring-2025-ges-colloquium.jpg",
+    "to": "assets/images/events/1-24-david-correia-spring-2025-ges-colloquium.jpg"
+  },
+  {
+    "from": "events/02-21-25-su-zhang-ges-colloquium.jpg",
+    "to": "assets/images/events/02-21-25-su-zhang-ges-colloquium.jpg"
+  },
+  {
+    "from": "events/fluid-geographies-book-panel-flyer.png",
+    "to": "assets/images/events/fluid-geographies-book-panel-flyer.png"
+  },
+  {
+    "from": "events/04-04-25-lisa-losada-rojas-ges-colloquium.png",
+    "to": "assets/images/events/04-04-25-lisa-losada-rojas-ges-colloquium.png"
+  },
+  {
+    "from": "events/04-18-25-rowan-converse-ges-colloquium.png",
+    "to": "assets/images/events/04-18-25-rowan-converse-ges-colloquium.png"
+  },
+  {
+    "from": "events/02-19-25-marcela-suarez-ges-colloquium.jpg",
+    "to": "assets/images/events/02-19-25-marcela-suarez-ges-colloquium.jpg"
+  },
+  {
+    "from": "events/andrew-curley-lecture.jpg",
+    "to": "assets/images/events/andrew-curley-lecture.jpg"
+  },
+  {
+    "from": "events/gorman_unm-book-talk_final.png",
+    "to": "assets/images/events/gorman_unm-book-talk_final.png"
+  },
+  {
+    "from": "events/seed-workshop-flyer-1-1.png",
+    "to": "assets/images/events/seed-workshop-flyer-1-1.png"
+  },
+  {
+    "from": "20250408-water-bodies-readings-2025.jpg",
+    "to": "assets/images/shared/20250408-water-bodies-readings-2025.jpg"
+  },
+  {
+    "from": "events/cnc_2025_flyer_double-sided_letter_page_1.png",
+    "to": "assets/images/events/cnc_2025_flyer_double-sided_letter_page_1.png"
+  },
+  {
+    "from": "news/rghsgroupphoto.jpg",
+    "to": "assets/images/news/rghsgroupphoto.jpg"
+  },
+  {
+    "from": "projects/project/abq_backyard_refugee_support_campus_critters.jpg",
+    "to": "assets/images/projects/project/abq_backyard_refugee_support_campus_critters.jpg"
+  },
+  {
+    "from": "projects/project/abq_backyard_refugee_program_finchart.jpg",
+    "to": "assets/images/projects/project/abq_backyard_refugee_program_finchart.jpg"
+  },
+  {
+    "from": "projects/project/photos/resilience_box_impact.png",
+    "to": "assets/images/projects/project/photos/resilience_box_impact.png"
+  },
+  {
+    "from": "projects/project/agricultural-connections-along-el-camino-real.png",
+    "to": "assets/images/projects/project/agricultural-connections-along-el-camino-real.png"
+  },
+  {
+    "from": "projects/project/traversing-el-camilo-real-de-tierra-adentro.png",
+    "to": "assets/images/projects/project/traversing-el-camilo-real-de-tierra-adentro.png"
+  }
+]

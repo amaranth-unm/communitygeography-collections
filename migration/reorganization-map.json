@@ -1,0 +1,1389 @@
+{
+  "baseline_commit": "52a5d70f7dca889fc034e622f74bef1d11a1813b",
+  "pages": [
+    {
+      "from": "index.md",
+      "to": "pages/index.md",
+      "permalink": "/index.html"
+    },
+    {
+      "from": "about/index.md",
+      "to": "pages/about/index.md",
+      "permalink": "/about/index.html"
+    },
+    {
+      "from": "about/mission.md",
+      "to": "pages/about/mission.md",
+      "permalink": "/about/mission.html"
+    },
+    {
+      "from": "about/our-team.md",
+      "to": "pages/about/our-team.md",
+      "permalink": "/about/our-team.html"
+    },
+    {
+      "from": "about/affiliates.md",
+      "to": "pages/about/affiliates.md",
+      "permalink": "/about/affiliates.html"
+    },
+    {
+      "from": "about/contact-us.md",
+      "to": "pages/about/contact-us.md",
+      "permalink": "/about/contact-us.html"
+    },
+    {
+      "from": "community-geography/index.md",
+      "to": "pages/community-geography/index.md",
+      "permalink": "/community-geography/index.html"
+    },
+    {
+      "from": "community-geography/our-network.md",
+      "to": "pages/community-geography/our-network.md",
+      "permalink": "/community-geography/our-network.html"
+    },
+    {
+      "from": "community-geography/partnership.md",
+      "to": "pages/community-geography/partnership.md",
+      "permalink": "/community-geography/partnership.html"
+    },
+    {
+      "from": "news/2020.md",
+      "to": "pages/news/2020.md",
+      "permalink": "/news/2020.html"
+    },
+    {
+      "from": "news/2021.md",
+      "to": "pages/news/2021.md",
+      "permalink": "/news/2021.html"
+    },
+    {
+      "from": "news/2022.md",
+      "to": "pages/news/2022.md",
+      "permalink": "/news/2022.html"
+    },
+    {
+      "from": "news/2023.md",
+      "to": "pages/news/2023.md",
+      "permalink": "/news/2023.html"
+    },
+    {
+      "from": "news/2024.md",
+      "to": "pages/news/2024.md",
+      "permalink": "/news/2024.html"
+    },
+    {
+      "from": "news/2025.md",
+      "to": "pages/news/2025.md",
+      "permalink": "/news/2025.html"
+    },
+    {
+      "from": "news/2026.md",
+      "to": "pages/news/2026.md",
+      "permalink": "/news/2026.html"
+    },
+    {
+      "from": "funding/index.md",
+      "to": "pages/funding/index.md",
+      "permalink": "/funding/index.html"
+    },
+    {
+      "from": "funding/grad-fellowships.md",
+      "to": "pages/funding/grad-fellowships.md",
+      "permalink": "/funding/grad-fellowships.html"
+    },
+    {
+      "from": "funding/seed-funding.md",
+      "to": "pages/funding/seed-funding.md",
+      "permalink": "/funding/seed-funding.html"
+    },
+    {
+      "from": "events/index2.md",
+      "to": "pages/events/index2.md",
+      "permalink": "/events/index2.html"
+    },
+    {
+      "from": "events/index1.md",
+      "to": "pages/events/index1.md",
+      "permalink": "/events/index1.html"
+    },
+    {
+      "from": "donate/index.md",
+      "to": "pages/donate/index.md",
+      "permalink": "/donate/index.html"
+    },
+    {
+      "from": "projects/index.md",
+      "to": "pages/projects/index.md",
+      "permalink": "/projects/index.html"
+    },
+    {
+      "from": "projects/past-projects/index.md",
+      "to": "pages/projects/past-projects/index.md",
+      "permalink": "/projects/past-projects/index.html"
+    },
+    {
+      "from": "news/featured-fellow-hope-smith.md",
+      "to": "pages/news/featured-fellow-hope-smith.md",
+      "permalink": "/news/featured-fellow-hope-smith.html"
+    },
+    {
+      "from": "news/featured-fellow-juna-keehn.md",
+      "to": "pages/news/featured-fellow-juna-keehn.md",
+      "permalink": "/news/featured-fellow-juna-keehn.html"
+    },
+    {
+      "from": "news/we-are-happy-to-welcome-laurel-ladwig-as-the-centers-new-associate-director.md",
+      "to": "pages/news/we-are-happy-to-welcome-laurel-ladwig-as-the-centers-new-associate-director.md",
+      "permalink": "/news/we-are-happy-to-welcome-laurel-ladwig-as-the-centers-new-associate-director.html"
+    },
+    {
+      "from": "fall-2024-fellows-projects.md",
+      "to": "pages/news/fall-2024-fellows-projects.md",
+      "permalink": "/fall-2024-fellows-projects.html"
+    },
+    {
+      "from": "news/dr-miriam-gay-antaki-community-geographys-new-director.md",
+      "to": "pages/news/dr-miriam-gay-antaki-community-geographys-new-director.md",
+      "permalink": "/news/dr-miriam-gay-antaki-community-geographys-new-director.html"
+    },
+    {
+      "from": "december-22,-2020.md",
+      "to": "pages/news/december-22,-2020.md",
+      "permalink": "/december-22,-2020.html"
+    },
+    {
+      "from": "gila-wilderness-centennial-unm-and-ancestral-gila-homelands-co-sponsored-speaker-series.md",
+      "to": "pages/events/gila-wilderness-centennial-unm-and-ancestral-gila-homelands-co-sponsored-speaker-series.md",
+      "permalink": "/gila-wilderness-centennial-unm-and-ancestral-gila-homelands-co-sponsored-speaker-series.html"
+    },
+    {
+      "from": "geography-and-environmental-studies-colloquium-event-pleistocene-pottery-and-postcard-biodiversity-in-new-mexico.md",
+      "to": "pages/events/geography-and-environmental-studies-colloquium-event-pleistocene-pottery-and-postcard-biodiversity-in-new-mexico.md",
+      "permalink": "/geography-and-environmental-studies-colloquium-event-pleistocene-pottery-and-postcard-biodiversity-in-new-mexico.html"
+    },
+    {
+      "from": "ges-colloquium-sandia-a-mountain-a-family-and-the-climate-crisis.md",
+      "to": "pages/events/ges-colloquium-sandia-a-mountain-a-family-and-the-climate-crisis.md",
+      "permalink": "/ges-colloquium-sandia-a-mountain-a-family-and-the-climate-crisis.html"
+    },
+    {
+      "from": "ges-colloquium-just-transition-barriers-and-opportunities-in-nms-clean-energy-transition.md",
+      "to": "pages/events/ges-colloquium-just-transition-barriers-and-opportunities-in-nms-clean-energy-transition.md",
+      "permalink": "/ges-colloquium-just-transition-barriers-and-opportunities-in-nms-clean-energy-transition.html"
+    },
+    {
+      "from": "ges-bioblitz-bike-and-brews.md",
+      "to": "pages/events/ges-bioblitz-bike-and-brews.md",
+      "permalink": "/ges-bioblitz-bike-and-brews.html"
+    },
+    {
+      "from": "water-climate-change-across-the-americas-interdisciplinary-symposium.md",
+      "to": "pages/events/water-climate-change-across-the-americas-interdisciplinary-symposium.md",
+      "permalink": "/water-climate-change-across-the-americas-interdisciplinary-symposium.html"
+    },
+    {
+      "from": "sustainability-expo.md",
+      "to": "pages/events/sustainability-expo.md",
+      "permalink": "/sustainability-expo.html"
+    },
+    {
+      "from": "faculty-search-colloquium-dr-molly-miranker.md",
+      "to": "pages/events/faculty-search-colloquium-dr-molly-miranker.md",
+      "permalink": "/faculty-search-colloquium-dr-molly-miranker.html"
+    },
+    {
+      "from": "polycentricity-and-state-reinforced-self-governance-the-case-of-the-new-york-city-watersheds.md",
+      "to": "pages/events/polycentricity-and-state-reinforced-self-governance-the-case-of-the-new-york-city-watersheds.md",
+      "permalink": "/polycentricity-and-state-reinforced-self-governance-the-case-of-the-new-york-city-watersheds.html"
+    },
+    {
+      "from": "community-geography/collaboration-lexicon-word.md",
+      "to": "pages/community-geography/collaboration-lexicon-word.md",
+      "permalink": "/community-geography/collaboration-lexicon-word.html"
+    },
+    {
+      "from": "community-geography/community-lexicon-word.md",
+      "to": "pages/community-geography/community-lexicon-word.md",
+      "permalink": "/community-geography/community-lexicon-word.html"
+    },
+    {
+      "from": "community-geography/headwaters-dependent-systems-lexicon-word.md",
+      "to": "pages/community-geography/headwaters-dependent-systems-lexicon-word.md",
+      "permalink": "/community-geography/headwaters-dependent-systems-lexicon-word.html"
+    },
+    {
+      "from": "community-geography/human-geography-lexicon-word.md",
+      "to": "pages/community-geography/human-geography-lexicon-word.md",
+      "permalink": "/community-geography/human-geography-lexicon-word.html"
+    },
+    {
+      "from": "community-geography/physical-geography-lexicon-word.md",
+      "to": "pages/community-geography/physical-geography-lexicon-word.md",
+      "permalink": "/community-geography/physical-geography-lexicon-word.html"
+    },
+    {
+      "from": "community-geography/place-lexicon-word.md",
+      "to": "pages/community-geography/place-lexicon-word.md",
+      "permalink": "/community-geography/place-lexicon-word.html"
+    },
+    {
+      "from": "community-geography/geography-lexicon-word.md",
+      "to": "pages/community-geography/geography-lexicon-word.md",
+      "permalink": "/community-geography/geography-lexicon-word.html"
+    },
+    {
+      "from": "community-geography/critical-cartography-lexicon-word.md",
+      "to": "pages/community-geography/critical-cartography-lexicon-word.md",
+      "permalink": "/community-geography/critical-cartography-lexicon-word.html"
+    },
+    {
+      "from": "news/index.md",
+      "to": "pages/news/index.md",
+      "permalink": "/news/index.html"
+    },
+    {
+      "from": "news/august-30,-2020.md",
+      "to": "pages/news/august-30,-2020.md",
+      "permalink": "/news/august-30,-2020.html"
+    },
+    {
+      "from": "news/october-1-2020.md",
+      "to": "pages/news/october-1-2020.md",
+      "permalink": "/news/october-1-2020.html"
+    },
+    {
+      "from": "news/november-1-2020.md",
+      "to": "pages/news/november-1-2020.md",
+      "permalink": "/news/november-1-2020.html"
+    },
+    {
+      "from": "news/august-10-2020.md",
+      "to": "pages/news/august-10-2020.md",
+      "permalink": "/news/august-10-2020.html"
+    },
+    {
+      "from": "news/march-29,-2021.md",
+      "to": "pages/news/march-29,-2021.md",
+      "permalink": "/news/march-29,-2021.html"
+    },
+    {
+      "from": "news/march-22,-2021.md",
+      "to": "pages/news/march-22,-2021.md",
+      "permalink": "/news/march-22,-2021.html"
+    },
+    {
+      "from": "news/march-28,-2021.md",
+      "to": "pages/news/march-28,-2021.md",
+      "permalink": "/news/march-28,-2021.html"
+    },
+    {
+      "from": "news/april-12,-2021.md",
+      "to": "pages/news/april-12,-2021.md",
+      "permalink": "/news/april-12,-2021.html"
+    },
+    {
+      "from": "news/april-22,-2021.md",
+      "to": "pages/news/april-22,-2021.md",
+      "permalink": "/news/april-22,-2021.html"
+    },
+    {
+      "from": "news/may-18,-2021.md",
+      "to": "pages/news/may-18,-2021.md",
+      "permalink": "/news/may-18,-2021.html"
+    },
+    {
+      "from": "news/july-12,-2021.md",
+      "to": "pages/news/july-12,-2021.md",
+      "permalink": "/news/july-12,-2021.html"
+    },
+    {
+      "from": "news/fall-colloquium.md",
+      "to": "pages/news/fall-colloquium.md",
+      "permalink": "/news/fall-colloquium.html"
+    },
+    {
+      "from": "news/critical-cartography-students-create-storymaps-in-nps-partnership.md",
+      "to": "pages/news/critical-cartography-students-create-storymaps-in-nps-partnership.md",
+      "permalink": "/news/critical-cartography-students-create-storymaps-in-nps-partnership.html"
+    },
+    {
+      "from": "news/funding-announcement.md",
+      "to": "pages/news/funding-announcement.md",
+      "permalink": "/news/funding-announcement.html"
+    },
+    {
+      "from": "news/april-11-2022.md",
+      "to": "pages/news/april-11-2022.md",
+      "permalink": "/news/april-11-2022.html"
+    },
+    {
+      "from": "news/september-20-2022.md",
+      "to": "pages/news/september-20-2022.md",
+      "permalink": "/news/september-20-2022.html"
+    },
+    {
+      "from": "news/announcement-center-for-community-geography-now-accepting-applications-for-faculty-affiliation.md",
+      "to": "pages/news/announcement-center-for-community-geography-now-accepting-applications-for-faculty-affiliation.md",
+      "permalink": "/news/announcement-center-for-community-geography-now-accepting-applications-for-faculty-affiliation.html"
+    },
+    {
+      "from": "news/awardwinners22-23.md",
+      "to": "pages/news/awardwinners22-23.md",
+      "permalink": "/news/awardwinners22-23.html"
+    },
+    {
+      "from": "news/center-adds-five-new-team-members-for-spring-2023.md",
+      "to": "pages/news/center-adds-five-new-team-members-for-spring-2023.md",
+      "permalink": "/news/center-adds-five-new-team-members-for-spring-2023.html"
+    },
+    {
+      "from": "news/center-announces-panelists-for-indigenous-cartographies-unm-events.md",
+      "to": "pages/news/center-announces-panelists-for-indigenous-cartographies-unm-events.md",
+      "permalink": "/news/center-announces-panelists-for-indigenous-cartographies-unm-events.html"
+    },
+    {
+      "from": "news/indigenous-cartographies-unm-was-a-huge-success.md",
+      "to": "pages/news/indigenous-cartographies-unm-was-a-huge-success.md",
+      "permalink": "/news/indigenous-cartographies-unm-was-a-huge-success.html"
+    },
+    {
+      "from": "news/sponsor-leopold-lecture.md",
+      "to": "pages/news/sponsor-leopold-lecture.md",
+      "permalink": "/news/sponsor-leopold-lecture.html"
+    },
+    {
+      "from": "news/our-centers-2023-2024-funding-applications-are-open.md",
+      "to": "pages/news/our-centers-2023-2024-funding-applications-are-open.md",
+      "permalink": "/news/our-centers-2023-2024-funding-applications-are-open.html"
+    },
+    {
+      "from": "news/join-the-2023-city-nature-challenge.md",
+      "to": "pages/news/join-the-2023-city-nature-challenge.md",
+      "permalink": "/news/join-the-2023-city-nature-challenge.html"
+    },
+    {
+      "from": "news/congratulations-to-recipients-of-center-funding-for-2023-2024.md",
+      "to": "pages/news/congratulations-to-recipients-of-center-funding-for-2023-2024.md",
+      "permalink": "/news/congratulations-to-recipients-of-center-funding-for-2023-2024.html"
+    },
+    {
+      "from": "news/announcement-2023-affiliates-application-now-open1.md",
+      "to": "pages/news/announcement-2023-affiliates-application-now-open1.md",
+      "permalink": "/news/announcement-2023-affiliates-application-now-open1.html"
+    },
+    {
+      "from": "news/geog-499.md",
+      "to": "pages/news/geog-499.md",
+      "permalink": "/news/geog-499.html"
+    },
+    {
+      "from": "news/get-to-know-dr-silas-grant-instructor-of-geog-499-environmental-justice-in-greater-chaco.md",
+      "to": "pages/news/get-to-know-dr-silas-grant-instructor-of-geog-499-environmental-justice-in-greater-chaco.md",
+      "permalink": "/news/get-to-know-dr-silas-grant-instructor-of-geog-499-environmental-justice-in-greater-chaco.html"
+    },
+    {
+      "from": "news/center-adds-new-members-to-our-team-and-welcomes-dr-miriam-gay-antaki-as-our-interim-director-for-the-spring-semester.md",
+      "to": "pages/news/center-adds-new-members-to-our-team-and-welcomes-dr-miriam-gay-antaki-as-our-interim-director-for-the-spring-semester.md",
+      "permalink": "/news/center-adds-new-members-to-our-team-and-welcomes-dr-miriam-gay-antaki-as-our-interim-director-for-the-spring-semester.html"
+    },
+    {
+      "from": "news/the-center-for-community-geography-spring-funding-cycle-is-now-open.md",
+      "to": "pages/news/the-center-for-community-geography-spring-funding-cycle-is-now-open.md",
+      "permalink": "/news/the-center-for-community-geography-spring-funding-cycle-is-now-open.html"
+    },
+    {
+      "from": "news/the-unm-community-engagement-center-is-recruiting-for-its-public-allies-program.md",
+      "to": "pages/news/the-unm-community-engagement-center-is-recruiting-for-its-public-allies-program.md",
+      "permalink": "/news/the-unm-community-engagement-center-is-recruiting-for-its-public-allies-program.html"
+    },
+    {
+      "from": "news/monthly-coffee-social.md",
+      "to": "pages/news/monthly-coffee-social.md",
+      "permalink": "/news/monthly-coffee-social.html"
+    },
+    {
+      "from": "news/monthly-coffee-social1.md",
+      "to": "pages/news/monthly-coffee-social1.md",
+      "permalink": "/news/monthly-coffee-social1.html"
+    },
+    {
+      "from": "news/example-page.md",
+      "to": "pages/news/example-page.md",
+      "permalink": "/news/example-page.html"
+    },
+    {
+      "from": "events/2023-annual-leopold-lecture---robin-wall-kimmerer.md",
+      "to": "pages/events/2023-annual-leopold-lecture---robin-wall-kimmerer.md",
+      "permalink": "/events/2023-annual-leopold-lecture---robin-wall-kimmerer.html"
+    },
+    {
+      "from": "events/symposium23.md",
+      "to": "pages/events/symposium23.md",
+      "permalink": "/events/symposium23.html"
+    },
+    {
+      "from": "events/-display-name.md",
+      "to": "pages/events/-display-name.md",
+      "permalink": "/events/-display-name.html"
+    },
+    {
+      "from": "events/geography-awareness-week-and-gis-day.md",
+      "to": "pages/events/geography-awareness-week-and-gis-day.md",
+      "permalink": "/events/geography-awareness-week-and-gis-day.html"
+    },
+    {
+      "from": "events/2023-murphy-lecture.md",
+      "to": "pages/events/2023-murphy-lecture.md",
+      "permalink": "/events/2023-murphy-lecture.html"
+    },
+    {
+      "from": "events/city-nature-challenge.md",
+      "to": "pages/events/city-nature-challenge.md",
+      "permalink": "/events/city-nature-challenge.html"
+    },
+    {
+      "from": "events/community-engagement-week.md",
+      "to": "pages/events/community-engagement-week.md",
+      "permalink": "/events/community-engagement-week.html"
+    },
+    {
+      "from": "events/unm-spring-teaching-conference.md",
+      "to": "pages/events/unm-spring-teaching-conference.md",
+      "permalink": "/events/unm-spring-teaching-conference.html"
+    },
+    {
+      "from": "events/spring-2024-ges-colloquium-series.md",
+      "to": "pages/events/spring-2024-ges-colloquium-series.md",
+      "permalink": "/events/spring-2024-ges-colloquium-series.html"
+    },
+    {
+      "from": "events/gila-centennial-looking-to-the-mountain-sacred-lands-healing-cultures.md",
+      "to": "pages/events/gila-centennial-looking-to-the-mountain-sacred-lands-healing-cultures.md",
+      "permalink": "/events/gila-centennial-looking-to-the-mountain-sacred-lands-healing-cultures.html"
+    },
+    {
+      "from": "events/city-nature-challenge-observation-walks.md",
+      "to": "pages/events/city-nature-challenge-observation-walks.md",
+      "permalink": "/events/city-nature-challenge-observation-walks.html"
+    },
+    {
+      "from": "events/final-spring-colloquium.md",
+      "to": "pages/events/final-spring-colloquium.md",
+      "permalink": "/events/final-spring-colloquium.html"
+    },
+    {
+      "from": "events/9.18-undergraduate-pizza-social.md",
+      "to": "pages/events/9.18-undergraduate-pizza-social.md",
+      "permalink": "/events/9.18-undergraduate-pizza-social.html"
+    },
+    {
+      "from": "events/9.27-grad-staff-and-faculty-social.md",
+      "to": "pages/events/9.27-grad-staff-and-faculty-social.md",
+      "permalink": "/events/9.27-grad-staff-and-faculty-social.html"
+    },
+    {
+      "from": "events/9.13-ges-colloquium.md",
+      "to": "pages/events/9.13-ges-colloquium.md",
+      "permalink": "/events/9.13-ges-colloquium.html"
+    },
+    {
+      "from": "events/pizza-lunch.md",
+      "to": "pages/events/pizza-lunch.md",
+      "permalink": "/events/pizza-lunch.html"
+    },
+    {
+      "from": "events/coffee-social.md",
+      "to": "pages/events/coffee-social.md",
+      "permalink": "/events/coffee-social.html"
+    },
+    {
+      "from": "events/ges-colloquium-dr-david-correia.md",
+      "to": "pages/events/ges-colloquium-dr-david-correia.md",
+      "permalink": "/events/ges-colloquium-dr-david-correia.html"
+    },
+    {
+      "from": "events/ges-colloquium-mapping-absenteeism-visualizing-the-multi-scalar-and-relational-geographies-of-absentee-housing-ownership-in-atlanta-georgia.md",
+      "to": "pages/events/ges-colloquium-mapping-absenteeism-visualizing-the-multi-scalar-and-relational-geographies-of-absentee-housing-ownership-in-atlanta-georgia.md",
+      "permalink": "/events/ges-colloquium-mapping-absenteeism-visualizing-the-multi-scalar-and-relational-geographies-of-absentee-housing-ownership-in-atlanta-georgia.html"
+    },
+    {
+      "from": "events/ges-colloquium-fluid-geographies-book-panel.md",
+      "to": "pages/events/ges-colloquium-fluid-geographies-book-panel.md",
+      "permalink": "/events/ges-colloquium-fluid-geographies-book-panel.html"
+    },
+    {
+      "from": "events/ges-colloquium.md",
+      "to": "pages/events/ges-colloquium.md",
+      "permalink": "/events/ges-colloquium.html"
+    },
+    {
+      "from": "events/ges-colloquium1.md",
+      "to": "pages/events/ges-colloquium1.md",
+      "permalink": "/events/ges-colloquium1.html"
+    },
+    {
+      "from": "events/ges-student-showcase-colloquium.md",
+      "to": "pages/events/ges-student-showcase-colloquium.md",
+      "permalink": "/events/ges-student-showcase-colloquium.html"
+    },
+    {
+      "from": "events/ges-colloquium-from-data-to-decisions-a-giscience-approach-to-social-vulnerability-and-emergency-response.md",
+      "to": "pages/events/ges-colloquium-from-data-to-decisions-a-giscience-approach-to-social-vulnerability-and-emergency-response.md",
+      "permalink": "/events/ges-colloquium-from-data-to-decisions-a-giscience-approach-to-social-vulnerability-and-emergency-response.html"
+    },
+    {
+      "from": "events/dialogue-with-dr-andrew-curley-colonial-becoming-an-unfolding-story-of-the-colorado-river.md",
+      "to": "pages/events/dialogue-with-dr-andrew-curley-colonial-becoming-an-unfolding-story-of-the-colorado-river.md",
+      "permalink": "/events/dialogue-with-dr-andrew-curley-colonial-becoming-an-unfolding-story-of-the-colorado-river.html"
+    },
+    {
+      "from": "events/book-talk-zones-of-encuentro-language-and-identities-in-northern-new-mexico.md",
+      "to": "pages/events/book-talk-zones-of-encuentro-language-and-identities-in-northern-new-mexico.md",
+      "permalink": "/events/book-talk-zones-of-encuentro-language-and-identities-in-northern-new-mexico.html"
+    },
+    {
+      "from": "events/spring-seed-workshop.md",
+      "to": "pages/events/spring-seed-workshop.md",
+      "permalink": "/events/spring-seed-workshop.html"
+    },
+    {
+      "from": "events/book-reading-water-bodies-love-letters-to-the-most-abundant-substance-on-earth.md",
+      "to": "pages/events/book-reading-water-bodies-love-letters-to-the-most-abundant-substance-on-earth.md",
+      "permalink": "/events/book-reading-water-bodies-love-letters-to-the-most-abundant-substance-on-earth.html"
+    },
+    {
+      "from": "events/spring-garden-party.md",
+      "to": "pages/events/spring-garden-party.md",
+      "permalink": "/events/spring-garden-party.html"
+    },
+    {
+      "from": "events/city-nature-challenge1.md",
+      "to": "pages/events/city-nature-challenge1.md",
+      "permalink": "/events/city-nature-challenge1.html"
+    },
+    {
+      "from": "events/city-nature-challenge-in-partnership-with-the-center-for-community-geography.md",
+      "to": "pages/events/city-nature-challenge-in-partnership-with-the-center-for-community-geography.md",
+      "permalink": "/events/city-nature-challenge-in-partnership-with-the-center-for-community-geography.html"
+    },
+    {
+      "from": "events/gis-day-2025.md",
+      "to": "pages/events/gis-day-2025.md",
+      "permalink": "/events/gis-day-2025.html"
+    },
+    {
+      "from": "news/fall-2023-recap.md",
+      "to": "pages/news/fall-2023-recap.md",
+      "permalink": "/news/fall-2023-recap.html"
+    },
+    {
+      "from": "projects/project/abq-backyard-refuge.md",
+      "to": "pages/projects/project/abq-backyard-refuge.md",
+      "permalink": "/projects/project/abq-backyard-refuge.html"
+    },
+    {
+      "from": "projects/project/rurality-survey-partnership-with-the-university-of-vermont-and-the-university-of-nebraska.md",
+      "to": "pages/projects/project/rurality-survey-partnership-with-the-university-of-vermont-and-the-university-of-nebraska.md",
+      "permalink": "/projects/project/rurality-survey-partnership-with-the-university-of-vermont-and-the-university-of-nebraska.html"
+    },
+    {
+      "from": "projects/project/albuquerque-backyard-refuge-program.md",
+      "to": "pages/projects/project/albuquerque-backyard-refuge-program.md",
+      "permalink": "/projects/project/albuquerque-backyard-refuge-program.html"
+    },
+    {
+      "from": "projects/project/food-access-in-the-international-district-with-bernalillo-county-open-space.md",
+      "to": "pages/projects/project/food-access-in-the-international-district-with-bernalillo-county-open-space.md",
+      "permalink": "/projects/project/food-access-in-the-international-district-with-bernalillo-county-open-space.html"
+    },
+    {
+      "from": "projects/project/community-engaged-information-design-geog-2115-spring-2023.md",
+      "to": "pages/projects/project/community-engaged-information-design-geog-2115-spring-2023.md",
+      "permalink": "/projects/project/community-engaged-information-design-geog-2115-spring-2023.html"
+    },
+    {
+      "from": "projects/project/re-examining-the-old-spanish-trail.md",
+      "to": "pages/projects/project/re-examining-the-old-spanish-trail.md",
+      "permalink": "/projects/project/re-examining-the-old-spanish-trail.html"
+    },
+    {
+      "from": "projects/project/the-abq-resilience-box-a-community-engaged-food-project-successes-and-challenges-of-community-based-practice-in-action.md",
+      "to": "pages/projects/project/the-abq-resilience-box-a-community-engaged-food-project-successes-and-challenges-of-community-based-practice-in-action.md",
+      "permalink": "/projects/project/the-abq-resilience-box-a-community-engaged-food-project-successes-and-challenges-of-community-based-practice-in-action.html"
+    },
+    {
+      "from": "projects/project/tijeras-creek-cultural-corridor-project-tcccp.md",
+      "to": "pages/projects/project/tijeras-creek-cultural-corridor-project-tcccp.md",
+      "permalink": "/projects/project/tijeras-creek-cultural-corridor-project-tcccp.html"
+    },
+    {
+      "from": "projects/project/mora-wildfire-project.md",
+      "to": "pages/projects/project/mora-wildfire-project.md",
+      "permalink": "/projects/project/mora-wildfire-project.html"
+    },
+    {
+      "from": "projects/project/geospatial-data-aggregator-and-visualizer-for-albuquerque.md",
+      "to": "pages/projects/project/geospatial-data-aggregator-and-visualizer-for-albuquerque.md",
+      "permalink": "/projects/project/geospatial-data-aggregator-and-visualizer-for-albuquerque.html"
+    },
+    {
+      "from": "projects/project/the-south-valley-acequia-association-pajarito-ditch-project.md",
+      "to": "pages/projects/project/the-south-valley-acequia-association-pajarito-ditch-project.md",
+      "permalink": "/projects/project/the-south-valley-acequia-association-pajarito-ditch-project.html"
+    },
+    {
+      "from": "projects/project/food-and-housing-map.md",
+      "to": "pages/projects/project/food-and-housing-map.md",
+      "permalink": "/projects/project/food-and-housing-map.html"
+    },
+    {
+      "from": "projects/project/city-nature-challenge.md",
+      "to": "pages/projects/project/city-nature-challenge.md",
+      "permalink": "/projects/project/city-nature-challenge.html"
+    },
+    {
+      "from": "projects/project/test-project-3.md",
+      "to": "pages/projects/project/test-project-3.md",
+      "permalink": "/projects/project/test-project-3.html"
+    },
+    {
+      "from": "projects/project/tijeras-creek-watershed-collaborative-service-project.md",
+      "to": "pages/projects/project/tijeras-creek-watershed-collaborative-service-project.md",
+      "permalink": "/projects/project/tijeras-creek-watershed-collaborative-service-project.html"
+    },
+    {
+      "from": "projects/project/story-collection-for-the-rio-grande-water-fund.md",
+      "to": "pages/projects/project/story-collection-for-the-rio-grande-water-fund.md",
+      "permalink": "/projects/project/story-collection-for-the-rio-grande-water-fund.html"
+    },
+    {
+      "from": "projects/project/test-project-4.md",
+      "to": "pages/projects/project/test-project-4.md",
+      "permalink": "/projects/project/test-project-4.html"
+    },
+    {
+      "from": "projects/project/test-project-1.md",
+      "to": "pages/projects/project/test-project-1.md",
+      "permalink": "/projects/project/test-project-1.html"
+    },
+    {
+      "from": "projects/project/test-project-2.md",
+      "to": "pages/projects/project/test-project-2.md",
+      "permalink": "/projects/project/test-project-2.html"
+    }
+  ],
+  "assets": [
+    {
+      "from": "assets/img/center-logo-.png",
+      "to": "assets/images/shared/center-logo-.png"
+    },
+    {
+      "from": "bosque-by-maria-lane.jpeg",
+      "to": "assets/images/shared/bosque-by-maria-lane.jpeg"
+    },
+    {
+      "from": "learn-more-button.png",
+      "to": "assets/images/shared/learn-more-button.png"
+    },
+    {
+      "from": "about/instagram-icon.png",
+      "to": "assets/images/about/instagram-icon.png"
+    },
+    {
+      "from": "about/full-group-pajarito-acequia-sp2022",
+      "to": "assets/images/about/full-group-pajarito-acequia-sp2022"
+    },
+    {
+      "from": "about/prickly-pear-cropped.jpeg",
+      "to": "assets/images/about/prickly-pear-cropped.jpeg"
+    },
+    {
+      "from": "about/morgan_24.jpg",
+      "to": "assets/images/about/morgan_24.jpg"
+    },
+    {
+      "from": "about/gibbs-photo.jpg",
+      "to": "assets/images/about/gibbs-photo.jpg"
+    },
+    {
+      "from": "about/desiree-photo.jpeg",
+      "to": "assets/images/about/desiree-photo.jpeg"
+    },
+    {
+      "from": "about/ks_headshot.png",
+      "to": "assets/images/about/ks_headshot.png"
+    },
+    {
+      "from": "about/joegarcia.jpg",
+      "to": "assets/images/about/joegarcia.jpg"
+    },
+    {
+      "from": "about/gwyneth-doland.jpg",
+      "to": "assets/images/about/gwyneth-doland.jpg"
+    },
+    {
+      "from": "claudia",
+      "to": "assets/images/shared/claudia"
+    },
+    {
+      "from": "about/thomas-de-pree",
+      "to": "assets/images/about/thomas-de-pree"
+    },
+    {
+      "from": "about/kells-bio-pix.jpg",
+      "to": "assets/images/about/kells-bio-pix.jpg"
+    },
+    {
+      "from": "about/soni-taylorshead-july-2022.jpg",
+      "to": "assets/images/about/soni-taylorshead-july-2022.jpg"
+    },
+    {
+      "from": "about/headshot_zoom.jpg",
+      "to": "assets/images/about/headshot_zoom.jpg"
+    },
+    {
+      "from": "about/marygold.webp",
+      "to": "assets/images/about/marygold.webp"
+    },
+    {
+      "from": "about/liping-yang.jpg",
+      "to": "assets/images/about/liping-yang.jpg"
+    },
+    {
+      "from": "about/milfordmuskett.jpg",
+      "to": "assets/images/about/milfordmuskett.jpg"
+    },
+    {
+      "from": "community-geography/picture2.png",
+      "to": "assets/images/community-geography/picture2.png"
+    },
+    {
+      "from": "community-geography/collaboration-11.png",
+      "to": "assets/images/community-geography/collaboration-11.png"
+    },
+    {
+      "from": "community-geography/community-1.png",
+      "to": "assets/images/community-geography/community-1.png"
+    },
+    {
+      "from": "community-geography/signal-2023-05-02-172650_004.jpeg",
+      "to": "assets/images/community-geography/signal-2023-05-02-172650_004.jpeg"
+    },
+    {
+      "from": "community-geography/human-geography-1.png",
+      "to": "assets/images/community-geography/human-geography-1.png"
+    },
+    {
+      "from": "community-geography/physical-geography-1.png",
+      "to": "assets/images/community-geography/physical-geography-1.png"
+    },
+    {
+      "from": "community-geography/place-1.png",
+      "to": "assets/images/community-geography/place-1.png"
+    },
+    {
+      "from": "community-geography/signal-2023-05-02-172650_008.jpeg",
+      "to": "assets/images/community-geography/signal-2023-05-02-172650_008.jpeg"
+    },
+    {
+      "from": "news/april10_drdevivo_talk_flyer.pdf",
+      "to": "assets/documents/news/april10_drdevivo_talk_flyer.pdf"
+    },
+    {
+      "from": "funding/24-25-fellowship-app-guidelines.pdf",
+      "to": "assets/documents/funding/24-25-fellowship-app-guidelines.pdf"
+    },
+    {
+      "from": "funding/ks_headshot_02.jpg",
+      "to": "assets/images/funding/ks_headshot_02.jpg"
+    },
+    {
+      "from": "funding/criticalcartographyshannonandmicheal",
+      "to": "assets/images/funding/criticalcartographyshannonandmicheal"
+    },
+    {
+      "from": "funding/24-25-classroom-fund-app-guidelines.pdf",
+      "to": "assets/documents/funding/24-25-classroom-fund-app-guidelines.pdf"
+    },
+    {
+      "from": "funding/crticialcartographystudents2021",
+      "to": "assets/images/funding/crticialcartographystudents2021"
+    },
+    {
+      "from": "events/gis-day.png",
+      "to": "assets/images/events/gis-day.png"
+    },
+    {
+      "from": "news/ccg_social_gus_5.7.png",
+      "to": "assets/images/news/ccg_social_gus_5.7.png"
+    },
+    {
+      "from": "events/05-02-25-ges-student-showcase-ges-colloquium.png",
+      "to": "assets/images/events/05-02-25-ges-student-showcase-ges-colloquium.png"
+    },
+    {
+      "from": "events/outlook-jv033xwt.png",
+      "to": "assets/images/events/outlook-jv033xwt.png"
+    },
+    {
+      "from": "events/ccg_cnc2025_.png",
+      "to": "assets/images/events/ccg_cnc2025_.png"
+    },
+    {
+      "from": "events/new-flyer.jpg",
+      "to": "assets/images/events/new-flyer.jpg"
+    },
+    {
+      "from": "events/dr-devivo.jpg",
+      "to": "assets/images/events/dr-devivo.jpg"
+    },
+    {
+      "from": "donate/picture1.png",
+      "to": "assets/images/donate/picture1.png"
+    },
+    {
+      "from": "projects/byr_per_nbr_slack.png",
+      "to": "assets/images/projects/byr_per_nbr_slack.png"
+    },
+    {
+      "from": "projects/project/migration-survey_2.png",
+      "to": "assets/images/projects/project/migration-survey_2.png"
+    },
+    {
+      "from": "projects/project/abq-backyard-refuge-logo.jpg",
+      "to": "assets/images/projects/project/abq-backyard-refuge-logo.jpg"
+    },
+    {
+      "from": "projects/project/berncoopenspace.png",
+      "to": "assets/images/projects/project/berncoopenspace.png"
+    },
+    {
+      "from": "projects/project/geog2115_sp22_sustexpo.jpg",
+      "to": "assets/images/projects/project/geog2115_sp22_sustexpo.jpg"
+    },
+    {
+      "from": "projects/project/oldspanishtrail.png",
+      "to": "assets/images/projects/project/oldspanishtrail.png"
+    },
+    {
+      "from": "projects/project/photos/resiliencebox_packing.png",
+      "to": "assets/images/projects/project/photos/resiliencebox_packing.png"
+    },
+    {
+      "from": "projects/project/tijeras_pueblo_archeological_site,_tijeras_nm.jpg",
+      "to": "assets/images/projects/project/tijeras_pueblo_archeological_site,_tijeras_nm.jpg"
+    },
+    {
+      "from": "projects/project/mora_hs_students.png",
+      "to": "assets/images/projects/project/mora_hs_students.png"
+    },
+    {
+      "from": "projects/project/satellite-image-abq-cropped.jpg",
+      "to": "assets/images/projects/project/satellite-image-abq-cropped.jpg"
+    },
+    {
+      "from": "food-and-resources-map.png",
+      "to": "assets/images/shared/food-and-resources-map.png"
+    },
+    {
+      "from": "events/city-nature-challenge-log.png",
+      "to": "assets/images/events/city-nature-challenge-log.png"
+    },
+    {
+      "from": "projects/project/backyard-refuge-program.jpg",
+      "to": "assets/images/projects/project/backyard-refuge-program.jpg"
+    },
+    {
+      "from": "projects/tcwc-logo.png",
+      "to": "assets/images/projects/tcwc-logo.png"
+    },
+    {
+      "from": "projects/project/kelsey-project-2.jpeg",
+      "to": "assets/images/projects/project/kelsey-project-2.jpeg"
+    },
+    {
+      "from": "projects/project/new-forest.jpg",
+      "to": "assets/images/projects/project/new-forest.jpg"
+    },
+    {
+      "from": "projects/project/boxed-apples.jpg",
+      "to": "assets/images/projects/project/boxed-apples.jpg"
+    },
+    {
+      "from": "projects/project/mexican-carreta---chihuahua-loc.jpg",
+      "to": "assets/images/projects/project/mexican-carreta---chihuahua-loc.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day01.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day01.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day02.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day02.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day03.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day03.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day04.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day04.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day13.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day13.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day05.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day05.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day06.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day06.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day07.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day07.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day08.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day08.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day09.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day09.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day10.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day10.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day11.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day11.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day12.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day12.jpg"
+    },
+    {
+      "from": "projects/past-projects/2025_gis_day14.jpg",
+      "to": "assets/images/projects/past-projects/2025_gis_day14.jpg"
+    },
+    {
+      "from": "news/hopesmith.jpg",
+      "to": "assets/images/news/hopesmith.jpg"
+    },
+    {
+      "from": "about/juna.jpg",
+      "to": "assets/images/about/juna.jpg"
+    },
+    {
+      "from": "about/miriam-profile-picture-.jpg",
+      "to": "assets/images/about/miriam-profile-picture-.jpg"
+    },
+    {
+      "from": "rm.jpg",
+      "to": "assets/images/shared/rm.jpg"
+    },
+    {
+      "from": "nopal-by-maria-lane.jpeg",
+      "to": "assets/images/shared/nopal-by-maria-lane.jpeg"
+    },
+    {
+      "from": "gila_christina_castro",
+      "to": "assets/images/shared/gila_christina_castro"
+    },
+    {
+      "from": "subhankar-banerjee-flyer.png",
+      "to": "assets/images/shared/subhankar-banerjee-flyer.png"
+    },
+    {
+      "from": "wilson-flyer.png",
+      "to": "assets/images/shared/wilson-flyer.png"
+    },
+    {
+      "from": "ges-april-5th-colloquium.png",
+      "to": "assets/images/shared/ges-april-5th-colloquium.png"
+    },
+    {
+      "from": "ges_bioblitzbikeride.jpg",
+      "to": "assets/images/shared/ges_bioblitzbikeride.jpg"
+    },
+    {
+      "from": "watersymposium24",
+      "to": "assets/images/shared/watersymposium24"
+    },
+    {
+      "from": "expo2024.png",
+      "to": "assets/images/shared/expo2024.png"
+    },
+    {
+      "from": "02-14-25-molly-miranker-ges-colloquium.jpg",
+      "to": "assets/images/shared/02-14-25-molly-miranker-ges-colloquium.jpg"
+    },
+    {
+      "from": "schlager-talk-4.7.25-pols-arid.png",
+      "to": "assets/images/shared/schlager-talk-4.7.25-pols-arid.png"
+    },
+    {
+      "from": "community-geography/collaboration-2.png",
+      "to": "assets/images/community-geography/collaboration-2.png"
+    },
+    {
+      "from": "community-geography/collaboration-3.png",
+      "to": "assets/images/community-geography/collaboration-3.png"
+    },
+    {
+      "from": "community-geography/community-11.png",
+      "to": "assets/images/community-geography/community-11.png"
+    },
+    {
+      "from": "community-geography/community-2.png",
+      "to": "assets/images/community-geography/community-2.png"
+    },
+    {
+      "from": "community-geography/community-3.png",
+      "to": "assets/images/community-geography/community-3.png"
+    },
+    {
+      "from": "community-geography/hds-1.png",
+      "to": "assets/images/community-geography/hds-1.png"
+    },
+    {
+      "from": "community-geography/hds-2.png",
+      "to": "assets/images/community-geography/hds-2.png"
+    },
+    {
+      "from": "community-geography/hds-3.png",
+      "to": "assets/images/community-geography/hds-3.png"
+    },
+    {
+      "from": "community-geography/hds-4.png",
+      "to": "assets/images/community-geography/hds-4.png"
+    },
+    {
+      "from": "community-geography/human-geography-2.png",
+      "to": "assets/images/community-geography/human-geography-2.png"
+    },
+    {
+      "from": "community-geography/human-geography-3.png",
+      "to": "assets/images/community-geography/human-geography-3.png"
+    },
+    {
+      "from": "community-geography/physical-geography-2.png",
+      "to": "assets/images/community-geography/physical-geography-2.png"
+    },
+    {
+      "from": "community-geography/physical-geography-3.png",
+      "to": "assets/images/community-geography/physical-geography-3.png"
+    },
+    {
+      "from": "community-geography/place-2.png",
+      "to": "assets/images/community-geography/place-2.png"
+    },
+    {
+      "from": "community-geography/place-3.png",
+      "to": "assets/images/community-geography/place-3.png"
+    },
+    {
+      "from": "community-geography/signal-2023-05-02-172650_003.jpeg",
+      "to": "assets/images/community-geography/signal-2023-05-02-172650_003.jpeg"
+    },
+    {
+      "from": "community-geography/signal-2023-05-02-172650_002.jpeg",
+      "to": "assets/images/community-geography/signal-2023-05-02-172650_002.jpeg"
+    },
+    {
+      "from": "community-geography/signal-2023-05-02-172650_007.jpeg",
+      "to": "assets/images/community-geography/signal-2023-05-02-172650_007.jpeg"
+    },
+    {
+      "from": "community-geography/signal-2023-05-02-172650_006.jpeg",
+      "to": "assets/images/community-geography/signal-2023-05-02-172650_006.jpeg"
+    },
+    {
+      "from": "community-geography/signal-2023-05-02-172650_005.jpeg",
+      "to": "assets/images/community-geography/signal-2023-05-02-172650_005.jpeg"
+    },
+    {
+      "from": "news/critcartography-poster4866.jpg",
+      "to": "assets/images/news/critcartography-poster4866.jpg"
+    },
+    {
+      "from": "events/march-29-2021-event.jpg",
+      "to": "assets/images/events/march-29-2021-event.jpg"
+    },
+    {
+      "from": "news/inatualist-.png",
+      "to": "assets/images/news/inatualist-.png"
+    },
+    {
+      "from": "about/pic-of-field-work-29097.jpg",
+      "to": "assets/images/about/pic-of-field-work-29097.jpg"
+    },
+    {
+      "from": "about/pic-of-field-work9098.png",
+      "to": "assets/images/about/pic-of-field-work9098.png"
+    },
+    {
+      "from": "news/criticalcartographylospoblanos",
+      "to": "assets/images/news/criticalcartographylospoblanos"
+    },
+    {
+      "from": "news/cnc2021-gesvbio.pdf",
+      "to": "assets/documents/news/cnc2021-gesvbio.pdf"
+    },
+    {
+      "from": "news/cnc2021-gesvbio.jpg",
+      "to": "assets/images/news/cnc2021-gesvbio.jpg"
+    },
+    {
+      "from": "news/maria-sunset-.jpeg",
+      "to": "assets/images/news/maria-sunset-.jpeg"
+    },
+    {
+      "from": "news/casa-san-ysidro-by-ramona-m.",
+      "to": "assets/images/news/casa-san-ysidro-by-ramona-m."
+    },
+    {
+      "from": "news/jeffbuckleytalkposter",
+      "to": "assets/images/news/jeffbuckleytalkposter"
+    },
+    {
+      "from": "news/geoff-buckley16341.jpg",
+      "to": "assets/images/news/geoff-buckley16341.jpg"
+    },
+    {
+      "from": "news/pajarito-open-space-shannon.jpg",
+      "to": "assets/images/news/pajarito-open-space-shannon.jpg"
+    },
+    {
+      "from": "news/cnc-updated-image.png",
+      "to": "assets/images/news/cnc-updated-image.png"
+    },
+    {
+      "from": "daffodils_unm",
+      "to": "assets/images/shared/daffodils_unm"
+    },
+    {
+      "from": "christine.jpeg",
+      "to": "assets/images/shared/christine.jpeg"
+    },
+    {
+      "from": "deana.jpg",
+      "to": "assets/images/shared/deana.jpg"
+    },
+    {
+      "from": "rudo.jpg",
+      "to": "assets/images/shared/rudo.jpg"
+    },
+    {
+      "from": "annita.jpg",
+      "to": "assets/images/shared/annita.jpg"
+    },
+    {
+      "from": "reuben.jpg",
+      "to": "assets/images/shared/reuben.jpg"
+    },
+    {
+      "from": "news/img-7673.jpg",
+      "to": "assets/images/news/img-7673.jpg"
+    },
+    {
+      "from": "news/img-6601.jpg",
+      "to": "assets/images/news/img-6601.jpg"
+    },
+    {
+      "from": "news/img-7685.jpg",
+      "to": "assets/images/news/img-7685.jpg"
+    },
+    {
+      "from": "news/img-6598.jpg",
+      "to": "assets/images/news/img-6598.jpg"
+    },
+    {
+      "from": "events/robin-wall-kimmerer-2023-lecture_orig.jpeg",
+      "to": "assets/images/events/robin-wall-kimmerer-2023-lecture_orig.jpeg"
+    },
+    {
+      "from": "news/leopold-writing-program-logo-color.jpg",
+      "to": "assets/images/news/leopold-writing-program-logo-color.jpg"
+    },
+    {
+      "from": "funding/fellowship-app-guidelines-2023-2024.pdf",
+      "to": "assets/documents/funding/fellowship-app-guidelines-2023-2024.pdf"
+    },
+    {
+      "from": "funding/classroom-app-guidelines-2023-2024.pdf",
+      "to": "assets/documents/funding/classroom-app-guidelines-2023-2024.pdf"
+    },
+    {
+      "from": "news/abq-city-nature-challenge---updated-logo.png",
+      "to": "assets/images/news/abq-city-nature-challenge---updated-logo.png"
+    },
+    {
+      "from": "news/hiresgeog499flyer.png",
+      "to": "assets/images/news/hiresgeog499flyer.png"
+    },
+    {
+      "from": "news/geog-499-detailed-info.pdf",
+      "to": "assets/documents/news/geog-499-detailed-info.pdf"
+    },
+    {
+      "from": "news/oil-and-gas-leasing-protest.jpeg",
+      "to": "assets/images/news/oil-and-gas-leasing-protest.jpeg"
+    },
+    {
+      "from": "news/well-greater-chaco.jpg",
+      "to": "assets/images/news/well-greater-chaco.jpg"
+    },
+    {
+      "from": "news/thumbnail_20230702_dsc1266_small.jpg",
+      "to": "assets/images/news/thumbnail_20230702_dsc1266_small.jpg"
+    },
+    {
+      "from": "news/kendra-pinto-earthworks.jpg",
+      "to": "assets/images/news/kendra-pinto-earthworks.jpg"
+    },
+    {
+      "from": "publicallies.png",
+      "to": "assets/images/shared/publicallies.png"
+    },
+    {
+      "from": "news/ccg_social.png",
+      "to": "assets/images/news/ccg_social.png"
+    },
+    {
+      "from": "events/thumbnail_unm-ce-23-banner.jpg",
+      "to": "assets/images/events/thumbnail_unm-ce-23-banner.jpg"
+    },
+    {
+      "from": "events/lobo-garden-party-flyer.png",
+      "to": "assets/images/events/lobo-garden-party-flyer.png"
+    },
+    {
+      "from": "events/gisday2023",
+      "to": "assets/images/events/gisday2023"
+    },
+    {
+      "from": "events/murphy-lecture_2023_dupigny-giroux-11.png",
+      "to": "assets/images/events/murphy-lecture_2023_dupigny-giroux-11.png"
+    },
+    {
+      "from": "events/murphy-lecture_2023_dupigny-giroux-1.png",
+      "to": "assets/images/events/murphy-lecture_2023_dupigny-giroux-1.png"
+    },
+    {
+      "from": "events/cnc-ges-group.png",
+      "to": "assets/images/events/cnc-ges-group.png"
+    },
+    {
+      "from": "events/ctlconference2024.png",
+      "to": "assets/images/events/ctlconference2024.png"
+    },
+    {
+      "from": "events/spring-colloquium-series_updated.png",
+      "to": "assets/images/events/spring-colloquium-series_updated.png"
+    },
+    {
+      "from": "events/rosenthal",
+      "to": "assets/images/events/rosenthal"
+    },
+    {
+      "from": "events/ges-city-nature-chall-426.png",
+      "to": "assets/images/events/ges-city-nature-chall-426.png"
+    },
+    {
+      "from": "ges-may-9-colloquium.png",
+      "to": "assets/images/shared/ges-may-9-colloquium.png"
+    },
+    {
+      "from": "ccg_undergradsocial9.18.png",
+      "to": "assets/images/shared/ccg_undergradsocial9.18.png"
+    },
+    {
+      "from": "events/ccg_monthlysocial9.27.png",
+      "to": "assets/images/events/ccg_monthlysocial9.27.png"
+    },
+    {
+      "from": "events/fall2024gescolloquium_lippitt.png",
+      "to": "assets/images/events/fall2024gescolloquium_lippitt.png"
+    },
+    {
+      "from": "events/valentines-pizza-social1.png",
+      "to": "assets/images/events/valentines-pizza-social1.png"
+    },
+    {
+      "from": "events/1.22_ccg_social.png",
+      "to": "assets/images/events/1.22_ccg_social.png"
+    },
+    {
+      "from": "events/1-24-david-correia-spring-2025-ges-colloquium.jpg",
+      "to": "assets/images/events/1-24-david-correia-spring-2025-ges-colloquium.jpg"
+    },
+    {
+      "from": "events/02-21-25-su-zhang-ges-colloquium.jpg",
+      "to": "assets/images/events/02-21-25-su-zhang-ges-colloquium.jpg"
+    },
+    {
+      "from": "events/fluid-geographies-book-panel-flyer.png",
+      "to": "assets/images/events/fluid-geographies-book-panel-flyer.png"
+    },
+    {
+      "from": "events/04-04-25-lisa-losada-rojas-ges-colloquium.png",
+      "to": "assets/images/events/04-04-25-lisa-losada-rojas-ges-colloquium.png"
+    },
+    {
+      "from": "events/04-18-25-rowan-converse-ges-colloquium.png",
+      "to": "assets/images/events/04-18-25-rowan-converse-ges-colloquium.png"
+    },
+    {
+      "from": "events/02-19-25-marcela-suarez-ges-colloquium.jpg",
+      "to": "assets/images/events/02-19-25-marcela-suarez-ges-colloquium.jpg"
+    },
+    {
+      "from": "events/andrew-curley-lecture.jpg",
+      "to": "assets/images/events/andrew-curley-lecture.jpg"
+    },
+    {
+      "from": "events/gorman_unm-book-talk_final.png",
+      "to": "assets/images/events/gorman_unm-book-talk_final.png"
+    },
+    {
+      "from": "events/seed-workshop-flyer-1-1.png",
+      "to": "assets/images/events/seed-workshop-flyer-1-1.png"
+    },
+    {
+      "from": "20250408-water-bodies-readings-2025.jpg",
+      "to": "assets/images/shared/20250408-water-bodies-readings-2025.jpg"
+    },
+    {
+      "from": "events/cnc_2025_flyer_double-sided_letter_page_1.png",
+      "to": "assets/images/events/cnc_2025_flyer_double-sided_letter_page_1.png"
+    },
+    {
+      "from": "news/rghsgroupphoto.jpg",
+      "to": "assets/images/news/rghsgroupphoto.jpg"
+    },
+    {
+      "from": "projects/project/abq_backyard_refugee_support_campus_critters.jpg",
+      "to": "assets/images/projects/project/abq_backyard_refugee_support_campus_critters.jpg"
+    },
+    {
+      "from": "projects/project/abq_backyard_refugee_program_finchart.jpg",
+      "to": "assets/images/projects/project/abq_backyard_refugee_program_finchart.jpg"
+    },
+    {
+      "from": "projects/project/photos/resilience_box_impact.png",
+      "to": "assets/images/projects/project/photos/resilience_box_impact.png"
+    },
+    {
+      "from": "projects/project/agricultural-connections-along-el-camino-real.png",
+      "to": "assets/images/projects/project/agricultural-connections-along-el-camino-real.png"
+    },
+    {
+      "from": "projects/project/traversing-el-camilo-real-de-tierra-adentro.png",
+      "to": "assets/images/projects/project/traversing-el-camilo-real-de-tierra-adentro.png"
+    }
+  ]
+}

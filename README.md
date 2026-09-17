@@ -20,17 +20,17 @@ The earlier `communitygeography` repository contains the separate working-copy/d
 
 Follow the [editor guide](migration/collections-guide.md). Existing `permalink` values preserve public addresses while source names improve. All 134 imported routes remain; three formerly embedded records add detail pages. The source Cascade domain is unchanged.
 
-## Preview and checks
+## Edit and publish through GitHub
 
-```sh
-bundle install
-bundle exec jekyll serve --port 4003
-# http://localhost:4003/communitygeography-collections/
-bundle exec ruby scripts/check-site.rb _site
-bundle exec ruby scripts/check-collections.rb _site
-bundle exec ruby scripts/test-event-dates.rb
-```
+No local development or software installation is required.
 
-GitHub Actions builds/deploys on updates and daily to refresh the date-based upcoming list. Search includes collection pages and directory biographies. Images remain byte-for-byte unchanged; the inherited Optimize Images workflow is available for a separately reviewed batch.
+1. Open the [browser VS Code editor](https://github.dev/amaranth-unm/communitygeography-collections) and edit the relevant content file.
+2. Use **Source Control** to stage your changes, add a short description, and select **Commit & Push**. Saving a file alone does not publish it.
+3. Changes reaching `main` automatically start **Deploy Jekyll site to Pages**. If you edit on a branch, merge its pull request into `main` when ready.
+4. Open the repository's [Actions tab](https://github.com/amaranth-unm/communitygeography-collections/actions) and check that both **build** and **deploy** succeed. Then follow the deployment link to view the website.
+
+GitHub runs the Ruby plugins and all publishing checks. Failed checks stop publication; fix the reported file in the browser and commit again. The current workflows do not automatically check pull requests or provide a draft-site preview. A scheduled daily build refreshes upcoming events.
+
+The [scripts and automation guide](scripts/README.md) explains every script, both plugins, the two workflows, and how to read errors. Image optimization is available through **Actions → Optimize Images → Run workflow**; follow the [image guide](migration/image-optimization.md).
 
 Read the [verification record](migration/collections-verification.md), [editorial questions](migration/editorial-review.md), and [handoff](migration/start-here.md). `migration-baseline` identifies the original converted baseline; `reorganization-baseline` identifies this stage's parent. `scripts/check-reorganization.rb` belongs to that parent and intentionally does not pass after presentation/collection changes; use the collection checks here.

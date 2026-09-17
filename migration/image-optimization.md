@@ -23,23 +23,11 @@ The preview measures savings by encoding temporary copies; it does not show a vi
 - **Originals in Git history.** Apply reduces files in place. Their previous versions remain in the optimization commit's history; it does not create a second public set of full-resolution downloads. Choose a separate display-copy strategy if visitors need both versions.
 - **Working publication.** After committing to `main`, the job explicitly starts the Pages workflow. GitHub-token pushes do not themselves start another push-triggered workflow; [GitHub documents this behavior](https://docs.github.com/en/actions/how-tos/write-workflows/choose-when-workflows-run/trigger-a-workflow).
 
-## Local use and verification
+## Verification on GitHub
 
-Requires Python 3.10 or newer, Git, and ImageMagick. From the repository:
+The workflow installs the required tools on GitHub and runs **Check optimizer behavior on temporary images** before processing your selected folder. These tests cover preview, apply, transparency, unchanged paths, repeat runs, and error handling in an isolated test repository. They do not modify the site's images.
 
-```sh
-bash scripts/optimize-images.sh --preview --recursive --base-dir assets/images/projects --max-edge 1600 --quality 85
-```
-
-Preview is also the default when neither mode is specified. Use `--apply` to replace images, then inspect, commit, and push the changes. Selected images must already be committed before applying so Git retains their previous versions. Unlike the GitHub workflow, a local run does not commit or publish automatically.
-
-To exercise preview, apply, transparency, unchanged URLs, repeat runs, and error handling on temporary images:
-
-```sh
-python3 scripts/test-optimize-images.py
-```
-
-The tests use an isolated temporary repository and do not modify the site's images. The GitHub workflow runs these tests before processing the selected folder.
+Open the run in **Actions** to see the test result and the image-optimization summary. If tests fail, the optimization step does not run. No local setup or terminal commands are required. The [scripts and automation guide](../scripts/README.md) explains the shell entry point, Python optimizer, and test script individually.
 
 ## Upstream provenance
 

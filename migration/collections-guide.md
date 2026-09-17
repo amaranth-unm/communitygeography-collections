@@ -2,6 +2,8 @@
 
 This stage descends directly from `communitygeography-reorg` at `43e9189` / `reorganization-baseline`. Its purpose is consistent records and presentation, using the existing UNM/Xanthan appearance. The separate blue/plum visual mockup is not included.
 
+Edit these files in the [browser VS Code editor](https://github.dev/amaranth-unm/communitygeography-collections). Use **Source Control → Commit & Push** to save changes to GitHub. Changes reaching `main` are checked and published automatically; changes on another branch must be merged into `main` first. No local development or terminal commands are required. See the [scripts and automation guide](../scripts/README.md) for the full publishing process and every script's purpose.
+
 ## Where content lives
 
 | Location | Maintained content |
@@ -65,15 +67,10 @@ Keep existing anchors and ordering. The Benson/Morgan identity conflict is docum
 - The Optimize Images workflow is inherited and available. No compression or resampling has been applied; original bytes remain the comparison point. Review photographs separately from detailed flyers/maps before approving an optimization batch.
 - Projects remain ordinary pages with their existing card data. Their separate collection conversion was not part of the requested event/news/people scope.
 
-## Verification
+## Check your changes on GitHub
 
-```sh
-bundle exec jekyll build --strict_front_matter
-bundle exec ruby scripts/check-site.rb _site
-bundle exec ruby scripts/check-collections.rb _site
-bundle exec ruby scripts/test-event-dates.rb
-# Optional narrative/anchor/media comparison against the built parent:
-bundle exec ruby scripts/check-collections.rb _site /path/to/communitygeography-reorg/_site
-```
+Open the repository's **Actions** tab, select **Deploy Jekyll site to Pages**, and open the run for your commit. GitHub performs the build and checks automatically. To rebuild without changing content, select **Run workflow** on `main`.
 
-Build-time checks catch missing record fields, bad date/time formats, unflagged reversed dates, year-folder mismatches, missing images/alternatives, duplicate output URLs, and conflicting directory anchors. Output checks cover records in search, biographies searchable through directories, full-size gallery links, and original routes. The comparison preserves narrative wording and order as word tokens; it does not assert identical typography or punctuation.
+If a step fails, open its log to find the named file and error, correct the content in the browser editor, and commit again. The previous published site remains in place when a build or check fails. Once **build** and **deploy** succeed, use the deployment link to inspect the result. The browser editor cannot run the complete Jekyll site, and a separate draft preview is not configured.
+
+Build-time checks catch missing record fields, bad date/time formats, unflagged reversed dates, year-folder mismatches, missing images/alternatives, duplicate output URLs, and conflicting directory anchors. Output checks cover records in search, biographies searchable through directories, full-size gallery links, and original routes. See the [scripts and automation guide](../scripts/README.md) for check details, common errors, and the historical comparison tools that are not part of publishing.

@@ -36,6 +36,11 @@ documents.each do |file, doc|
       ids = documents[target].css('[id], a[name]').flat_map { |n| [n['id'], n['name']] }.compact
       errors << "#{file.delete_prefix(root)}: missing fragment #{value}" unless ids.include?(CGI.unescape(fragment))
     end
+    # Migrated files can have misleading extensions. Check the actual bytes:
+    # a PDF target can exist and still fail when embedded as an HTML image.
+    if node.name == 'img' && File.file?(target) && File.binread(target, 5) == '%PDF-'
+      errors << "#{file.delete_prefix(root)}: PDF used as an image: #{value}; provide a document link or an image preview"
+    end
   end
   doc.css('img:not([alt])').each { |img| errors << "#{file}: missing image alternative: #{img['src']}" }
 end

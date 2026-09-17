@@ -1,0 +1,15 @@
+---
+layout: base-unm
+---
+<article class="record-event">
+  {% assign title_id = page.heading_id %}{% unless title_id %}{% assign title_id = page.title | slugify %}{% endunless %}
+  <h1 id="{{ title_id | escape }}">{{ page.title | escape }}</h1>
+  {% include community/event-details.html event=page %}
+  <div class="record-body">{{ content }}</div>
+  {% if page.flyer %}
+  <figure class="record-flyer" id="photo-event">
+    <a href="{{ page.flyer | relative_url }}"><img src="{{ page.flyer | relative_url }}" alt="{{ page.flyer_alt | escape }}" loading="lazy" decoding="async"></a>
+    <figcaption><a href="{{ page.flyer | relative_url }}">Open the full-size event flyer</a></figcaption>
+  </figure>
+  {% endif %}
+</article>

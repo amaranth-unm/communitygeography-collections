@@ -1,13 +1,13 @@
-# Start here: organization-only stage
+# Start here: collections stage
 
-This repository is `communitygeography-reorg`. Its parent is the frozen converted baseline in `communitygeography-orig` at `52a5d70` / `migration-baseline`. It does not descend from later cleanup or visual design experiments.
+This repository is `communitygeography-collections`, descended from `communitygeography-reorg` at `43e9189` / `reorganization-baseline`. The user explicitly chose conversion of all confirmed events, news stories, and biographies, not a partial pilot.
 
-All 134 imported page sources now live under `pages/`; all 178 imported assets live under `assets/images/` or `assets/documents/`. Page permalinks and historical asset URLs are preserved. No wording, image bytes, or visual styling changed. Generic source names remain until the collections stage.
+Completed: 45 events, 39 news records, and 15 people; generated event/news lists; automatic news year pages; searchable collection content and biographies; descriptive source names; shared event/news/portrait/gallery patterns; usable PDF link; configurable original center banner. All 178 source asset bytes and all 134 original page routes are retained. Three additional detail URLs expose formerly embedded material.
 
-The [README](../README.md) is the editing guide. [stage-verification.md](stage-verification.md) defines what is verified. [reorganization-map.json](reorganization-map.json) records every move. The original manifest remains immutable: its file values describe import paths, not current editing paths.
+Start with the [README](../README.md) and [editor guide](collections-guide.md). [collections-verification.md](collections-verification.md) describes the checks and [editorial-review.md](editorial-review.md) records unresolved source issues. Original capture paths remain in `manifest.json`; follow `reorganization-map.json` and `collection-moves.json` for current source locations.
 
-The earlier [roadmap](cleanup-roadmap.md) and [organization proposal](site-organization-plan.md) remain historical context. The September 17 request for this separate demonstration supersedes their earlier advice to defer bulk moves. Their example source paths refer to the imported tree; consult the move map for current locations.
+The earlier roadmap and organization plan are historical proposals. This stage implements the user's September 17 scope, including deliberate folder moves and all confirmed event/news/directory records. Projects remain ordinary pages with existing card data; no wholesale Xanthan figure conversion or image compression was applied.
 
-`communitygeography-collections` is the next stage for descriptive names, structured event/news/people records, selective presentation patterns, and media repairs. Visual redesign remains a separate decision.
+Do not change editorial facts simply because the files are now structured. Known date conflicts are flagged and excluded from automatic upcoming placement. Some biographies and historic announcements disagree about roles; those disagreements are retained pending review. An empty inherited example page and unavailable external workshop link remain for route/content fidelity.
 
-Do not rerun the converter over organized files. The ignored capture remains in the earlier working copy's `migration/_work/source/`, not in a normal Git clone. Do not describe `orig` as an untouched Cascade export or pixel-identical reconstruction.
+The visual redesign remains a separate decision. It is not imported from the earlier `communitygeography` mockup. Future visual work can use an additional stylesheet or a separate demonstration repository after this stage is reviewed. Do not rerun the original converter over collection files.

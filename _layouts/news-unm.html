@@ -1,0 +1,12 @@
+---
+layout: base-unm
+---
+<article class="record-news">
+  {% assign title_id = page.heading_id %}{% unless title_id %}{% assign title_id = page.title | slugify %}{% endunless %}
+  <h1 id="{{ title_id | escape }}">{{ page.title | escape }}</h1>
+  {% if page.published_date %}<p><time datetime="{{ page.published_date }}">{{ page.published_date | date: '%B %d, %Y' }}</time></p>{% endif %}
+  <div class="record-profile{% unless page.image %} record-profile--text{% endunless %}">
+    {% if page.image %}<img class="record-portrait" src="{{ page.image | relative_url }}" alt="{{ page.image_alt | escape }}" loading="lazy" decoding="async">{% endif %}
+    <div class="record-body">{{ content }}</div>
+  </div>
+</article>

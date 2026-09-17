@@ -4,6 +4,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: '17 8 * * *'
 
 permissions:
   contents: read
@@ -36,6 +38,10 @@ jobs:
         run: bundle exec jekyll build --strict_front_matter --config _config.yml,_config.ci.yml
       - name: Check internal links, images, and search index
         run: bundle exec ruby scripts/check-site.rb _site
+      - name: Check collection records and calendar boundaries
+        run: |
+          bundle exec ruby scripts/check-collections.rb _site
+          bundle exec ruby scripts/test-event-dates.rb
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

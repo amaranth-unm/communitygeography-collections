@@ -2,7 +2,8 @@
 layout: null
 ---
 [
-  {% assign pages_with_titles = site.pages | where_exp: "p", "p.title" %}
+  {% assign search_documents = site.pages | concat: site.events | concat: site.news %}
+  {% assign pages_with_titles = search_documents | where_exp: "p", "p.title" %}
   {% assign separator = '' %}
   {% for page in pages_with_titles %}
     {% unless page.url contains '/assets/' or page.url contains '/search-index' or page.searchable == false %}
@@ -10,9 +11,9 @@ layout: null
       "title": {{ page.title | jsonify }},
       "url": "{{ site.baseurl }}{{ page.url }}",
       "summary": {{ page.summary | default: "" | jsonify }},
-      "content": {{ page.content | strip_html | truncatewords: 200 | jsonify }},
+      "content": {{ page.search_content | default: page.content | strip_html | jsonify }},
       "tags": {{ page.tags | default: "" | jsonify }},
-      "date": {{ page.date | date: "%Y-%m-%d" | jsonify }}
+      "date": {{ page.published_date | default: "" | jsonify }}
     }
     {% assign separator = ',' %}
     {% endunless %}

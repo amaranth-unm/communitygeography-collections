@@ -1,0 +1,10 @@
+{% if site.data.upcoming_events.size > 0 %}
+{% for event in site.data.upcoming_events %}
+<article class="record-event-summary">
+  <h2><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h2>
+  {% include community/event-details.html event=event %}
+</article>
+{% endfor %}
+{% else %}
+<p>No upcoming events found.</p>
+{% endif %}

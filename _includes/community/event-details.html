@@ -1,0 +1,8 @@
+{% assign event = include.event %}
+{% if event.date_review %}<p class="record-review">The published dates conflict and require confirmation.</p>{% endif %}
+<dl class="record-event-details">
+  <dt>Start</dt><dd><time datetime="{{ event.start_date }}{% if event.start_time %}T{{ event.start_time }}{% endif %}">{{ event.start_date | date: '%B %d, %Y' }}{% if event.start_time %} · {% capture start %}{{ event.start_date }}T{{ event.start_time }}{% endcapture %}{{ start | date: '%I:%M %p' }}{% endif %}</time></dd>
+  {% if event.end_date %}<dt>End</dt><dd><time datetime="{{ event.end_date }}{% if event.end_time %}T{{ event.end_time }}{% endif %}">{{ event.end_date | date: '%B %d, %Y' }}{% if event.end_time %} · {% capture finish %}{{ event.end_date }}T{{ event.end_time }}{% endcapture %}{{ finish | date: '%I:%M %p' }}{% endif %}</time></dd>{% endif %}
+  {% if event.presenter %}<dt>Presenter</dt><dd>{{ event.presenter | escape }}</dd>{% endif %}
+  {% if event.location %}<dt>Location</dt><dd>{{ event.location | escape }}</dd>{% endif %}
+</dl>

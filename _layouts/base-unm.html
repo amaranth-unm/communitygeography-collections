@@ -8,7 +8,7 @@
       {% include unm/nav-unm.html overlap=true %}
       <header class="center-masthead">
         <a href="{{ '/' | relative_url }}" aria-label="{{ site.name }} home">
-          <img src="{{ '/assets/images/shared/center-logo-.png' | relative_url }}" width="1920" height="300" alt="R.H. Mallory Center for Community Geography, University of New Mexico">
+          <img src="{{ site.center_banner.image | relative_url }}" width="{{ site.center_banner.width }}" height="{{ site.center_banner.height }}" alt="{{ site.center_banner.alt | escape }}">
         </a>
       </header>
       <div class="unm-site-nav">{% include nav/nav-top.html %}</div>

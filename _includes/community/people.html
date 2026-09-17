@@ -1,0 +1,19 @@
+{% assign people = site.people | sort: 'display_order' %}
+{% for person in people %}
+{% if person.groups contains include.group %}
+<section class="record-person">
+  {% if include.group == 'team' %}
+  <h2 id="{{ person.anchor }}">{{ person.role | escape }}</h2>
+  <p><em>{{ person.name | escape }}, {{ person.affiliation | escape }}</em></p>
+  {% else %}
+  <h2 id="{{ person.anchor }}">{{ person.name | escape }}</h2>
+  <p><em>{{ person.affiliation | escape }}</em></p>
+  {% endif %}
+  {% if person.expertise %}<p><em>{{ person.expertise | escape }}</em></p>{% endif %}
+  <div class="record-profile{% unless person.image %} record-profile--text{% endunless %}">
+    {% if person.image %}<img class="record-portrait" src="{{ person.image | relative_url }}" alt="{{ person.image_alt | escape }}" loading="lazy" decoding="async">{% endif %}
+    <div class="record-body">{{ person.content | markdownify }}</div>
+  </div>
+</section>
+{% endif %}
+{% endfor %}

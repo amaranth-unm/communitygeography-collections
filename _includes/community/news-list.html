@@ -1,0 +1,10 @@
+{% assign stories = site.news | sort: 'sort_date' | reverse %}
+{% if include.featured %}{% assign stories = site.news | where_exp: 'story', 'story.featured_order' | sort: 'featured_order' %}{% endif %}
+{% for story in stories %}
+  {% assign year = story.archive_year %}
+  {% if include.year == nil or include.year == year %}
+  <p><strong><a href="{{ story.url | relative_url }}">{{ story.title | escape }}</a></strong></p>
+  {% if story.published_date %}<p><time datetime="{{ story.published_date }}"><em>{{ story.published_date | date: '%B %d, %Y' }}</em></time></p>{% endif %}
+  {% if include.full %}<div class="record-body">{{ story.content | markdownify }}</div>{% endif %}
+  {% endif %}
+{% endfor %}

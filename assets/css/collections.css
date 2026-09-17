@@ -1,0 +1,26 @@
+/* Small, reusable content patterns; inherit the existing site theme. */
+.record-event-details { display: grid; grid-template-columns: max-content minmax(0, 1fr); gap: .4rem 1rem; margin-block: 1.5rem; }
+.record-event-details dt { font-weight: bold; }
+.record-event-details dd { margin: 0; overflow-wrap: anywhere; }
+.record-flyer { margin: 2rem 0; max-width: 44rem; }
+.record-flyer img { display: block; width: 100%; height: auto; }
+.record-flyer figcaption { margin-top: .5rem; }
+.record-event-summary { margin-block: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border-color, #ccc); }
+.record-event-thumbnail { display: block; width: min(100%, 18rem); height: auto; }
+.record-profile { display: grid; grid-template-columns: minmax(0, 12rem) minmax(0, 1fr); gap: 1.5rem; align-items: start; }
+.record-profile--text { grid-template-columns: minmax(0, 1fr); }
+.record-profile .record-portrait { display: block; width: 100%; height: auto; margin: 0; float: none; }
+.record-body { min-width: 0; }
+.record-body > :first-child { margin-top: 0; }
+.record-person { margin-bottom: 2.5rem; }
+.record-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 1rem; }
+.record-gallery figure { margin: 0; }
+.record-gallery img { display: block; width: 100%; height: 14rem; object-fit: contain; }
+@media (max-width: 600px) {
+  .record-profile { grid-template-columns: minmax(0, 1fr); margin-inline: 1.5rem; }
+  .record-profile .record-body :is(p, h1, h2, h3) { padding-inline: 0; }
+  .record-profile .record-portrait { max-width: 16rem; }
+  .record-event-details { grid-template-columns: minmax(0, 1fr); gap: .2rem; margin-inline: 1.5rem; }
+  .record-event-details dd { margin-bottom: .8rem; }
+  .record-gallery { margin-inline: 1.5rem; }
+}

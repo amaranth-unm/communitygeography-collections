@@ -1,0 +1,482 @@
+[
+  {
+    "from": "pages/events/gis-day-2025.md",
+    "to": "_events/2025/gis-day.md",
+    "permalink": "/events/gis-day-2025.html"
+  },
+  {
+    "from": "pages/events/ges-colloquium1.md",
+    "to": "_events/2025/wildlife-monitoring-colloquium.md",
+    "permalink": "/events/ges-colloquium1.html"
+  },
+  {
+    "from": "pages/news/monthly-coffee-social.md",
+    "to": "_events/2025/april-monthly-coffee-social.md",
+    "permalink": "/news/monthly-coffee-social.html"
+  },
+  {
+    "from": "pages/news/featured-fellow-hope-smith.md",
+    "to": "_news/2025/featured-fellow-hope-smith.md",
+    "permalink": "/news/featured-fellow-hope-smith.html"
+  },
+  {
+    "from": "pages/news/featured-fellow-juna-keehn.md",
+    "to": "_news/2025/featured-fellow-juna-keehn.md",
+    "permalink": "/news/featured-fellow-juna-keehn.html"
+  },
+  {
+    "from": "pages/news/we-are-happy-to-welcome-laurel-ladwig-as-the-centers-new-associate-director.md",
+    "to": "_news/2025/we-are-happy-to-welcome-laurel-ladwig-as-the-centers-new-associate-director.md",
+    "permalink": "/news/we-are-happy-to-welcome-laurel-ladwig-as-the-centers-new-associate-director.html"
+  },
+  {
+    "from": "pages/news/fall-2024-fellows-projects.md",
+    "to": "_news/2024/fall-2024-fellows-projects.md",
+    "permalink": "/fall-2024-fellows-projects.html"
+  },
+  {
+    "from": "pages/news/dr-miriam-gay-antaki-community-geographys-new-director.md",
+    "to": "_news/2024/dr-miriam-gay-antaki-community-geographys-new-director.md",
+    "permalink": "/news/dr-miriam-gay-antaki-community-geographys-new-director.html"
+  },
+  {
+    "from": "pages/about/our-team.md",
+    "to": "_people/*.md + pages/about/our-team.md",
+    "permalink": "/about/our-team.html"
+  },
+  {
+    "from": "pages/events/index1.md",
+    "to": "pages/events/upcoming.md",
+    "permalink": "/events/index1.html"
+  },
+  {
+    "from": "pages/events/index2.md",
+    "to": "pages/events/archive.md",
+    "permalink": "/events/index2.html"
+  },
+  {
+    "from": "pages/events/-display-name.md",
+    "to": "pages/events/lobo-garden-fall-party.md",
+    "permalink": "/events/-display-name.html"
+  },
+  {
+    "from": "pages/events/ges-colloquium.md",
+    "to": "pages/events/transportation-strategies-colloquium.md",
+    "permalink": "/events/ges-colloquium.html"
+  },
+  {
+    "from": "pages/events/city-nature-challenge1.md",
+    "to": "pages/events/2025-abq-city-nature-challenge.md",
+    "permalink": "/events/city-nature-challenge1.html"
+  },
+  {
+    "from": "pages/projects/project/test-project-1.md",
+    "to": "pages/projects/project/agricultural-connections-el-camino-real.md",
+    "permalink": "/projects/project/test-project-1.html"
+  },
+  {
+    "from": "pages/projects/project/test-project-2.md",
+    "to": "pages/projects/project/traversing-el-camino-real.md",
+    "permalink": "/projects/project/test-project-2.html"
+  },
+  {
+    "from": "pages/projects/project/test-project-3.md",
+    "to": "pages/projects/project/albuquerque-backyard-refuge-mapping-tool.md",
+    "permalink": "/projects/project/test-project-3.html"
+  },
+  {
+    "from": "pages/projects/project/test-project-4.md",
+    "to": "pages/projects/project/new-mexico-urban-community-forestry.md",
+    "permalink": "/projects/project/test-project-4.html"
+  },
+  {
+    "from": "pages/events/2023-annual-leopold-lecture---robin-wall-kimmerer.md",
+    "to": "_events/2023/2023-annual-leopold-lecture-robin-wall-kimmerer.md",
+    "permalink": "/events/2023-annual-leopold-lecture---robin-wall-kimmerer.html"
+  },
+  {
+    "from": "pages/events/2023-murphy-lecture.md",
+    "to": "_events/2023/murphy-lecture-2023.md",
+    "permalink": "/events/2023-murphy-lecture.html"
+  },
+  {
+    "from": "pages/events/2025-abq-city-nature-challenge.md",
+    "to": "_events/2025/abq-city-nature-challenge.md",
+    "permalink": "/events/city-nature-challenge1.html"
+  },
+  {
+    "from": "pages/events/9.13-ges-colloquium.md",
+    "to": "_events/2024/september-13-ges-colloquium.md",
+    "permalink": "/events/9.13-ges-colloquium.html"
+  },
+  {
+    "from": "pages/events/9.18-undergraduate-pizza-social.md",
+    "to": "_events/2024/undergraduate-pizza-social.md",
+    "permalink": "/events/9.18-undergraduate-pizza-social.html"
+  },
+  {
+    "from": "pages/events/9.27-grad-staff-and-faculty-social.md",
+    "to": "_events/2024/grad-staff-and-faculty-social.md",
+    "permalink": "/events/9.27-grad-staff-and-faculty-social.html"
+  },
+  {
+    "from": "pages/events/book-reading-water-bodies-love-letters-to-the-most-abundant-substance-on-earth.md",
+    "to": "_events/2025/book-reading-water-bodies-love-letters-to-the-most-abundant-substance-on-earth.md",
+    "permalink": "/events/book-reading-water-bodies-love-letters-to-the-most-abundant-substance-on-earth.html"
+  },
+  {
+    "from": "pages/events/book-talk-zones-of-encuentro-language-and-identities-in-northern-new-mexico.md",
+    "to": "_events/2025/book-talk-zones-of-encuentro-language-and-identities-in-northern-new-mexico.md",
+    "permalink": "/events/book-talk-zones-of-encuentro-language-and-identities-in-northern-new-mexico.html"
+  },
+  {
+    "from": "pages/events/city-nature-challenge-in-partnership-with-the-center-for-community-geography.md",
+    "to": "_events/2025/city-nature-challenge-in-partnership-with-the-center-for-community-geography.md",
+    "permalink": "/events/city-nature-challenge-in-partnership-with-the-center-for-community-geography.html"
+  },
+  {
+    "from": "pages/events/city-nature-challenge-observation-walks.md",
+    "to": "_events/2024/city-nature-challenge-observation-walks.md",
+    "permalink": "/events/city-nature-challenge-observation-walks.html"
+  },
+  {
+    "from": "pages/events/city-nature-challenge.md",
+    "to": "_events/2024/abq-city-nature-challenge.md",
+    "permalink": "/events/city-nature-challenge.html"
+  },
+  {
+    "from": "pages/events/coffee-social.md",
+    "to": "_events/2025/coffee-social.md",
+    "permalink": "/events/coffee-social.html"
+  },
+  {
+    "from": "pages/events/community-engagement-week.md",
+    "to": "_events/2024/community-engagement-week.md",
+    "permalink": "/events/community-engagement-week.html"
+  },
+  {
+    "from": "pages/events/dialogue-with-dr-andrew-curley-colonial-becoming-an-unfolding-story-of-the-colorado-river.md",
+    "to": "_events/2025/dialogue-with-dr-andrew-curley-colonial-becoming-an-unfolding-story-of-the-colorado-river.md",
+    "permalink": "/events/dialogue-with-dr-andrew-curley-colonial-becoming-an-unfolding-story-of-the-colorado-river.html"
+  },
+  {
+    "from": "pages/events/faculty-search-colloquium-dr-molly-miranker.md",
+    "to": "_events/2025/ges-colloquium-towards-humanitarian-geographic-information-science-migrant-deaths-at-the-texas-mexico-border.md",
+    "permalink": "/faculty-search-colloquium-dr-molly-miranker.html"
+  },
+  {
+    "from": "pages/events/final-spring-colloquium.md",
+    "to": "_events/2024/final-spring-colloquium.md",
+    "permalink": "/events/final-spring-colloquium.html"
+  },
+  {
+    "from": "pages/events/geography-and-environmental-studies-colloquium-event-pleistocene-pottery-and-postcard-biodiversity-in-new-mexico.md",
+    "to": "_events/2024/geography-and-environmental-studies-colloquium-event-pleistocene-pottery-and-postcard-biodiversity-in-new-mexico.md",
+    "permalink": "/geography-and-environmental-studies-colloquium-event-pleistocene-pottery-and-postcard-biodiversity-in-new-mexico.html"
+  },
+  {
+    "from": "pages/events/geography-awareness-week-and-gis-day.md",
+    "to": "_events/2023/geography-awareness-week-and-gis-day.md",
+    "permalink": "/events/geography-awareness-week-and-gis-day.html"
+  },
+  {
+    "from": "pages/events/ges-bioblitz-bike-and-brews.md",
+    "to": "_events/2024/ges-bioblitz-bike-and-brews.md",
+    "permalink": "/ges-bioblitz-bike-and-brews.html"
+  },
+  {
+    "from": "pages/events/ges-colloquium-dr-david-correia.md",
+    "to": "_events/2025/ges-colloquium-set-the-earth-on-fire-the-great-anthracite-coal-strike-of-1902-and-the-birth-of-the-police.md",
+    "permalink": "/events/ges-colloquium-dr-david-correia.html"
+  },
+  {
+    "from": "pages/events/ges-colloquium-fluid-geographies-book-panel.md",
+    "to": "_events/2025/ges-colloquium-fluid-geographies-book-panel.md",
+    "permalink": "/events/ges-colloquium-fluid-geographies-book-panel.html"
+  },
+  {
+    "from": "pages/events/ges-colloquium-from-data-to-decisions-a-giscience-approach-to-social-vulnerability-and-emergency-response.md",
+    "to": "_events/2025/ges-colloquium-from-data-to-decisions-a-giscience-approach-to-social-vulnerability-and-emergency-response.md",
+    "permalink": "/events/ges-colloquium-from-data-to-decisions-a-giscience-approach-to-social-vulnerability-and-emergency-response.html"
+  },
+  {
+    "from": "pages/events/ges-colloquium-just-transition-barriers-and-opportunities-in-nms-clean-energy-transition.md",
+    "to": "_events/2024/ges-colloquium-just-transition-barriers-and-opportunities-in-nm-s-clean-energy-transition.md",
+    "permalink": "/ges-colloquium-just-transition-barriers-and-opportunities-in-nms-clean-energy-transition.html"
+  },
+  {
+    "from": "pages/events/ges-colloquium-mapping-absenteeism-visualizing-the-multi-scalar-and-relational-geographies-of-absentee-housing-ownership-in-atlanta-georgia.md",
+    "to": "_events/2025/ges-colloquium-transforming-civil-infrastructure-and-environmental-management-with-giscience-geospatial-technologies-to-foster-innovative-and-resilient-solutions.md",
+    "permalink": "/events/ges-colloquium-mapping-absenteeism-visualizing-the-multi-scalar-and-relational-geographies-of-absentee-housing-ownership-in-atlanta-georgia.html"
+  },
+  {
+    "from": "pages/events/ges-colloquium-sandia-a-mountain-a-family-and-the-climate-crisis.md",
+    "to": "_events/2024/ges-colloquium-sandia-a-mountain-a-family-and-the-climate-crisis.md",
+    "permalink": "/ges-colloquium-sandia-a-mountain-a-family-and-the-climate-crisis.html"
+  },
+  {
+    "from": "pages/events/ges-student-showcase-colloquium.md",
+    "to": "_events/2025/ges-student-showcase-colloquium.md",
+    "permalink": "/events/ges-student-showcase-colloquium.html"
+  },
+  {
+    "from": "pages/events/gila-centennial-looking-to-the-mountain-sacred-lands-healing-cultures.md",
+    "to": "_events/2024/gila-centennial-looking-to-the-mountain-sacred-lands-healing-cultures.md",
+    "permalink": "/events/gila-centennial-looking-to-the-mountain-sacred-lands-healing-cultures.html"
+  },
+  {
+    "from": "pages/events/gila-wilderness-centennial-unm-and-ancestral-gila-homelands-co-sponsored-speaker-series.md",
+    "to": "_events/2024/unm-department-of-chicana-and-chicano-studies-co-sponsored-zoom-lecture-series-earth-healing-and-indigenous-wisdom.md",
+    "permalink": "/gila-wilderness-centennial-unm-and-ancestral-gila-homelands-co-sponsored-speaker-series.html"
+  },
+  {
+    "from": "pages/events/lobo-garden-fall-party.md",
+    "to": "_events/2023/lobo-garden-fall-party.md",
+    "permalink": "/events/-display-name.html"
+  },
+  {
+    "from": "pages/events/pizza-lunch.md",
+    "to": "_events/2025/pizza-lunch.md",
+    "permalink": "/events/pizza-lunch.html"
+  },
+  {
+    "from": "pages/events/polycentricity-and-state-reinforced-self-governance-the-case-of-the-new-york-city-watersheds.md",
+    "to": "_events/2025/polycentricity-and-state-reinforced-self-governance-the-case-of-the-new-york-city-watersheds.md",
+    "permalink": "/polycentricity-and-state-reinforced-self-governance-the-case-of-the-new-york-city-watersheds.html"
+  },
+  {
+    "from": "pages/events/spring-2024-ges-colloquium-series.md",
+    "to": "_events/2024/spring-2024-ges-colloquium-series.md",
+    "permalink": "/events/spring-2024-ges-colloquium-series.html"
+  },
+  {
+    "from": "pages/events/spring-garden-party.md",
+    "to": "_events/2025/spring-garden-party.md",
+    "permalink": "/events/spring-garden-party.html"
+  },
+  {
+    "from": "pages/events/spring-seed-workshop.md",
+    "to": "_events/2025/spring-seed-workshop.md",
+    "permalink": "/events/spring-seed-workshop.html"
+  },
+  {
+    "from": "pages/events/sustainability-expo.md",
+    "to": "_events/2024/sustainability-expo.md",
+    "permalink": "/sustainability-expo.html"
+  },
+  {
+    "from": "pages/events/symposium23.md",
+    "to": "_events/2023/community-engagement-symposium.md",
+    "permalink": "/events/symposium23.html"
+  },
+  {
+    "from": "pages/events/transportation-strategies-colloquium.md",
+    "to": "_events/2025/ges-colloquium-healthier-communities-through-transportation-strategies.md",
+    "permalink": "/events/ges-colloquium.html"
+  },
+  {
+    "from": "pages/events/unm-spring-teaching-conference.md",
+    "to": "_events/2024/unm-spring-teaching-conference.md",
+    "permalink": "/events/unm-spring-teaching-conference.html"
+  },
+  {
+    "from": "pages/events/water-climate-change-across-the-americas-interdisciplinary-symposium.md",
+    "to": "_events/2024/water-climate-change-across-the-americas-interdisciplinary-symposium.md",
+    "permalink": "/water-climate-change-across-the-americas-interdisciplinary-symposium.html"
+  },
+  {
+    "from": "pages/news/monthly-coffee-social1.md",
+    "to": "_events/2025/gus-guikema-s-undergraduate-honors-thesis-presentation-and-monthly-coffee-social.md",
+    "permalink": "/news/monthly-coffee-social1.html"
+  },
+  {
+    "from": "pages/news/announcement-2023-affiliates-application-now-open1.md",
+    "to": "_news/2023/faculty-affiliate-applications.md",
+    "permalink": "/news/announcement-2023-affiliates-application-now-open1.html"
+  },
+  {
+    "from": "pages/news/announcement-center-for-community-geography-now-accepting-applications-for-faculty-affiliation.md",
+    "to": "_news/2022/announcement-center-for-community-geography-now-accepting-applications-for-faculty-affiliation.md",
+    "permalink": "/news/announcement-center-for-community-geography-now-accepting-applications-for-faculty-affiliation.html"
+  },
+  {
+    "from": "pages/news/april-11-2022.md",
+    "to": "_news/2022/city-nature-challenge.md",
+    "permalink": "/news/april-11-2022.html"
+  },
+  {
+    "from": "pages/news/april-12,-2021.md",
+    "to": "_news/2021/student-and-faculty-funding.md",
+    "permalink": "/news/april-12,-2021.html"
+  },
+  {
+    "from": "pages/news/april-22,-2021.md",
+    "to": "_news/2021/ges-biology-city-nature-challenge.md",
+    "permalink": "/news/april-22,-2021.html"
+  },
+  {
+    "from": "pages/news/august-10-2020.md",
+    "to": "_news/2020/center-launch.md",
+    "permalink": "/news/august-10-2020.html"
+  },
+  {
+    "from": "pages/news/august-30,-2020.md",
+    "to": "_news/2020/center-adds-staff-member.md",
+    "permalink": "/news/august-30,-2020.html"
+  },
+  {
+    "from": "pages/news/awardwinners22-23.md",
+    "to": "_news/2022/awardwinners22-23.md",
+    "permalink": "/news/awardwinners22-23.html"
+  },
+  {
+    "from": "pages/news/center-adds-five-new-team-members-for-spring-2023.md",
+    "to": "_news/2023/center-adds-five-new-team-members-for-spring-2023.md",
+    "permalink": "/news/center-adds-five-new-team-members-for-spring-2023.html"
+  },
+  {
+    "from": "pages/news/center-adds-new-members-to-our-team-and-welcomes-dr-miriam-gay-antaki-as-our-interim-director-for-the-spring-semester.md",
+    "to": "_news/2024/center-adds-new-members-to-our-team-and-welcomes-dr-miriam-gay-antaki-as-our-interim-director-for-the-spring-semester.md",
+    "permalink": "/news/center-adds-new-members-to-our-team-and-welcomes-dr-miriam-gay-antaki-as-our-interim-director-for-the-spring-semester.html"
+  },
+  {
+    "from": "pages/news/center-announces-panelists-for-indigenous-cartographies-unm-events.md",
+    "to": "_news/2023/center-announces-panelists-for-indigenous-cartographies-unm-events.md",
+    "permalink": "/news/center-announces-panelists-for-indigenous-cartographies-unm-events.html"
+  },
+  {
+    "from": "pages/news/congratulations-to-recipients-of-center-funding-for-2023-2024.md",
+    "to": "_news/2023/congratulations-to-recipients-of-center-funding-for-2023-2024.md",
+    "permalink": "/news/congratulations-to-recipients-of-center-funding-for-2023-2024.html"
+  },
+  {
+    "from": "pages/news/critical-cartography-students-create-storymaps-in-nps-partnership.md",
+    "to": "_news/2022/critical-cartography-students-create-storymaps-in-nps-partnership.md",
+    "permalink": "/news/critical-cartography-students-create-storymaps-in-nps-partnership.html"
+  },
+  {
+    "from": "pages/news/december-22,-2020.md",
+    "to": "_news/2020/robert-mallory-gift.md",
+    "permalink": "/december-22,-2020.html"
+  },
+  {
+    "from": "pages/news/fall-2023-recap.md",
+    "to": "_news/2023/fall-2023-recap.md",
+    "permalink": "/news/fall-2023-recap.html"
+  },
+  {
+    "from": "pages/news/fall-colloquium.md",
+    "to": "_news/2021/rethinking-fountainbridge-colloquium.md",
+    "permalink": "/news/fall-colloquium.html"
+  },
+  {
+    "from": "pages/news/funding-announcement.md",
+    "to": "_news/2022/spring-funding-cycle.md",
+    "permalink": "/news/funding-announcement.html"
+  },
+  {
+    "from": "pages/news/geog-499.md",
+    "to": "_news/2023/geog-499.md",
+    "permalink": "/news/geog-499.html"
+  },
+  {
+    "from": "pages/news/get-to-know-dr-silas-grant-instructor-of-geog-499-environmental-justice-in-greater-chaco.md",
+    "to": "_news/2023/get-to-know-dr-silas-grant-instructor-of-geog-499-environmental-justice-in-greater-chaco.md",
+    "permalink": "/news/get-to-know-dr-silas-grant-instructor-of-geog-499-environmental-justice-in-greater-chaco.html"
+  },
+  {
+    "from": "pages/news/indigenous-cartographies-unm-was-a-huge-success.md",
+    "to": "_news/2023/indigenous-cartographies-unm-was-a-huge-success.md",
+    "permalink": "/news/indigenous-cartographies-unm-was-a-huge-success.html"
+  },
+  {
+    "from": "pages/news/join-the-2023-city-nature-challenge.md",
+    "to": "_news/2023/join-the-2023-city-nature-challenge.md",
+    "permalink": "/news/join-the-2023-city-nature-challenge.html"
+  },
+  {
+    "from": "pages/news/july-12,-2021.md",
+    "to": "_news/2021/community-engaged-classroom-awards.md",
+    "permalink": "/news/july-12,-2021.html"
+  },
+  {
+    "from": "pages/news/march-22,-2021.md",
+    "to": "_news/2021/abq-city-nature-challenge.md",
+    "permalink": "/news/march-22,-2021.html"
+  },
+  {
+    "from": "pages/news/march-28,-2021.md",
+    "to": "_news/2021/miriam-gay-antaki-associate-director.md",
+    "permalink": "/news/march-28,-2021.html"
+  },
+  {
+    "from": "pages/news/march-29,-2021.md",
+    "to": "_news/2021/jamie-mcevoy-public-lecture-registration.md",
+    "permalink": "/news/march-29,-2021.html"
+  },
+  {
+    "from": "pages/news/may-18,-2021.md",
+    "to": "_news/2021/graduate-fellowship-awards.md",
+    "permalink": "/news/may-18,-2021.html"
+  },
+  {
+    "from": "pages/news/november-1-2020.md",
+    "to": "_news/2020/geography-awareness-week.md",
+    "permalink": "/news/november-1-2020.html"
+  },
+  {
+    "from": "pages/news/october-1-2020.md",
+    "to": "_news/2020/community-mapping-course.md",
+    "permalink": "/news/october-1-2020.html"
+  },
+  {
+    "from": "pages/news/our-centers-2023-2024-funding-applications-are-open.md",
+    "to": "_news/2023/our-centers-2023-2024-funding-applications-are-open.md",
+    "permalink": "/news/our-centers-2023-2024-funding-applications-are-open.html"
+  },
+  {
+    "from": "pages/news/september-20-2022.md",
+    "to": "_news/2022/new-staff-members.md",
+    "permalink": "/news/september-20-2022.html"
+  },
+  {
+    "from": "pages/news/sponsor-leopold-lecture.md",
+    "to": "_news/2023/sponsor-leopold-lecture.md",
+    "permalink": "/news/sponsor-leopold-lecture.html"
+  },
+  {
+    "from": "pages/news/the-center-for-community-geography-spring-funding-cycle-is-now-open.md",
+    "to": "_news/2024/the-center-for-community-geography-spring-funding-cycle-is-now-open.md",
+    "permalink": "/news/the-center-for-community-geography-spring-funding-cycle-is-now-open.html"
+  },
+  {
+    "from": "pages/news/the-unm-community-engagement-center-is-recruiting-for-its-public-allies-program.md",
+    "to": "_news/2024/the-unm-community-engagement-center-is-recruiting-for-its-public-allies-program.md",
+    "permalink": "/news/the-unm-community-engagement-center-is-recruiting-for-its-public-allies-program.html"
+  },
+  {
+    "from": "pages/news/2026.md (embedded story)",
+    "to": "_news/2026/michael-devivo-visit.md",
+    "permalink": "/news/michael-devivo-visit.html"
+  },
+  {
+    "from": "pages/about/affiliates.md",
+    "to": "_people/*.md + pages/about/affiliates.md",
+    "permalink": "/about/affiliates.html"
+  },
+  {
+    "from": "pages/events/upcoming.md (embedded announcement)",
+    "to": "_events/2026/2026-devivo-coffee-social.md",
+    "permalink": "/events/2026-devivo-coffee-social.html"
+  },
+  {
+    "from": "pages/events/upcoming.md (embedded announcement)",
+    "to": "_events/2026/devivo-public-talk.md",
+    "permalink": "/events/devivo-public-talk.html"
+  },
+  {
+    "from": "pages/projects/past-projects/index.md",
+    "to": "pages/projects/gis-day-2025-gallery.md",
+    "permalink": "/projects/past-projects/index.html"
+  }
+]

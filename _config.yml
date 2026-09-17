@@ -1,34 +1,57 @@
 title: Center for Community Geography
 name: R.H. Mallory Center for Community Geography
-description: Connecting University of New Mexico resources with community needs through service learning, collaborative mapping, place-based research, and public events.
+description: Connecting University of New Mexico resources with community needs through
+  service learning, collaborative mapping, place-based research, and public events.
 lang: en
+timezone: America/Denver
 url: https://amaranth.unm.edu
-baseurl: /communitygeography-reorg
-repository: amaranth-unm/communitygeography-reorg
-repository_url: https://github.com/amaranth-unm/communitygeography-reorg
+baseurl: /communitygeography-collections
+repository: amaranth-unm/communitygeography-collections
+repository_url: https://github.com/amaranth-unm/communitygeography-collections
 email: communitygeography@unm.edu
 theme_css: unm
 search: true
-analytics_id:
-# Preserve the university tag used on the source site; the extension has no default ID.
+analytics_id: null
 unm_gtm_id: GTM-WQT2MB
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 plugins:
-  - jekyll-sitemap
+- jekyll-sitemap
 defaults:
-  - scope:
-      path: ""
-    values:
-      layout: base-unm
+- scope:
+    path: ''
+  values:
+    layout: base-unm
+- scope:
+    path: ''
+    type: events
+  values:
+    layout: event-unm
+- scope:
+    path: ''
+    type: news
+  values:
+    layout: news-unm
 exclude:
-  - README.md
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - vendor/
-  - scripts/
-  - migration/
-  - .bundle/
+- README.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+- vendor/
+- scripts/
+- migration/
+- .bundle/
+collections:
+  events:
+    output: true
+  news:
+    output: true
+  people:
+    output: false
+center_banner:
+  image: /assets/images/shared/center-logo-.png
+  width: 1920
+  height: 300
+  alt: R.H. Mallory Center for Community Geography, University of New Mexico

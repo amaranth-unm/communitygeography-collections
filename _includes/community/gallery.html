@@ -1,0 +1,5 @@
+<div class="record-gallery">
+{% for photo in include.photos %}
+  <figure><a href="{{ photo.image | relative_url }}"><img src="{{ photo.image | relative_url }}" alt="{{ photo.alt | escape }}" loading="lazy" decoding="async"></a></figure>
+{% endfor %}
+</div>

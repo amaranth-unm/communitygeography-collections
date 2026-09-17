@@ -1,51 +1,36 @@
-# Community Geography — organized files, same site
+# Community Geography — collections
 
-This organization-only demonstration starts at the frozen `migration-baseline` tag, commit `52a5d70`, in `amaranth-unm/communitygeography-orig`.
+This stage builds on [communitygeography-reorg](https://github.com/amaranth-unm/communitygeography-reorg), with the original UNM/Xanthan appearance and public routes. It demonstrates how editors can maintain one record and have pages, lists, and search update consistently.
 
-| Stage | Purpose |
+| Stage | Demonstrates |
 | --- | --- |
-| [communitygeography-orig](https://github.com/amaranth-unm/communitygeography-orig) | Converted baseline, with documented conversion repairs. |
-| **communitygeography-reorg** | Same rendered pages, organized source files and media. |
-| [communitygeography-collections](https://github.com/amaranth-unm/communitygeography-collections) | Next stage: selective presentation patterns and structured records. |
-| `communitygeography` | Earlier working copy and separate design experiment; not this stage's parent. |
+| [communitygeography-orig](https://github.com/amaranth-unm/communitygeography-orig) | Frozen converted baseline; documented conversion repairs already applied. |
+| [communitygeography-reorg](https://github.com/amaranth-unm/communitygeography-reorg) | Organized page sources/images/documents, with matching baseline rendering. |
+| **communitygeography-collections** | 45 events, 39 news records, 15 people, descriptive source names, and shared content patterns. |
 
-## Editing
+The earlier `communitygeography` repository contains the separate working-copy/design experiment. Its proposed visual redesign is not included here.
 
-```text
-pages/
-  index.md                 homepage
-  about/                   history, mission, directories, contact
-  community-geography/     original Community section
-  events/                  includes former root-level events
-  news/                    stories and year pages
-  funding/
-  projects/
-assets/
-  images/                  grouped by section; shared/ for root/shared media
-  documents/               PDFs grouped by section
-  css/  js/  unm/           framework and university branding
-_includes/  _layouts/       shared Xanthan/UNM presentation
-_data/                     navigation, project lists, compatibility map
-migration/                 evidence and guidance; excluded from publication
-```
+## Edit here
 
-Edit pages under `pages/`. Explicit permalinks preserve their public addresses. Generic source names remain intentionally unchanged so directory organization can be demonstrated separately from naming and collection changes. Images retain their original names and bytes.
+- `_events/YYYY/`: one event, structured dates/details and Markdown description.
+- `_news/YYYY/`: one story, publication metadata and Markdown article.
+- `_people/`: one directory entry, identity/affiliation and Markdown biography.
+- `pages/`: explanatory pages, directory wrappers, archives, and ordinary project pages.
+- `assets/images/` and `assets/documents/`: organized media, with original URLs preserved by a build-time compatibility map.
 
-New references use organized media paths. `_data/legacy-assets.json` maps all 178 old asset URLs to their maintained sources; the build copies those bytes to the old URLs too. Editors maintain one file. Keep the GitHub Actions deployment, which runs the compatibility plugin.
+Follow the [editor guide](migration/collections-guide.md). Existing `permalink` values preserve public addresses while source names improve. All 134 imported routes remain; three formerly embedded records add detail pages. The source Cascade domain is unchanged.
 
 ## Preview and checks
 
 ```sh
 bundle install
-bundle exec jekyll serve --port 4002
-# http://localhost:4002/communitygeography-reorg/
+bundle exec jekyll serve --port 4003
+# http://localhost:4003/communitygeography-collections/
 bundle exec ruby scripts/check-site.rb _site
+bundle exec ruby scripts/check-collections.rb _site
+bundle exec ruby scripts/test-event-dates.rb
 ```
 
-Build `communitygeography-orig` separately, then compare:
+GitHub Actions builds/deploys on updates and daily to refresh the date-based upcoming list. Search includes collection pages and directory biographies. Images remain byte-for-byte unchanged; the inherited Optimize Images workflow is available for a separately reviewed batch.
 
-```sh
-bundle exec ruby scripts/check-reorganization.rb /absolute/path/to/baseline/_site
-```
-
-See [verification evidence](migration/stage-verification.md), the exhaustive [move map](migration/reorganization-map.json), and [handoff notes](migration/start-here.md). The original university domain is unchanged. Cleanup, collections, compression, and visual redesign are separate stages.
+Read the [verification record](migration/collections-verification.md), [editorial questions](migration/editorial-review.md), and [handoff](migration/start-here.md). `migration-baseline` identifies the original converted baseline; `reorganization-baseline` identifies this stage's parent. `scripts/check-reorganization.rb` belongs to that parent and intentionally does not pass after presentation/collection changes; use the collection checks here.
